@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/figures/banners/main-banner.svg" alt="Jawalgaon Dam Break Analysis Banner" width="100%">
+  <img src="jawalgaon-dam-par-analysis/docs/figures/main-banner.svg" alt="Jawalgaon Dam Break Analysis Banner" width="100%">
 </div>
 
 <div align="center">
