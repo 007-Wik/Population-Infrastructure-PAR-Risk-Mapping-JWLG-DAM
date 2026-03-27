@@ -1,4 +1,6 @@
-# 🌊 Jawalgaon Dam Break — Population At Risk (PAR) Analysis
+<div align="center">
+  <img src="docs/figures/banners/main-banner.svg" alt="Jawalgaon Dam Break Analysis Banner" width="100%">
+</div>
 
 <div align="center">
 
@@ -8,8 +10,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
-**Open-source geospatial framework for dam-break Population-at-Risk assessment**  
-*Dual-scenario flood modelling · H1–H6 hazard zoning · Evacuation priority triage · EAP-compliant outputs*
+**Open-source geospatial framework for dam-break Population-at-Risk assessment** *Dual-scenario flood modelling · H1–H6 hazard zoning · Evacuation priority triage · EAP-compliant outputs*
 
 [▶ Open in Colab](https://colab.research.google.com/github/YOUR_USERNAME/jawalgaon-dam-par-analysis/blob/main/notebooks/Jawalgaon_PAR_Complete.ipynb) · [📊 View Methodology](METHODOLOGY.md) · [📖 Data Dictionary](DATA_DICTIONARY.md) · [🤝 Contributing](CONTRIBUTING.md)
 
@@ -64,36 +65,34 @@ The downstream floodplain encompasses agricultural land, villages, rural roads, 
 
 ## Analysis Overview
 
-```
 Raw Hydraulic Rasters (Depth, Velocity, WSE, Arrival Time)
-           │
-           ▼
-  ┌─────────────────────────────────────────────────────┐
-  │   22-Cell Sequential Jupyter Notebook Pipeline      │
-  │                                                     │
-  │  [1] Library install + [2] Config (single edit)     │
-  │  [3] Input validation + [4] CRS auto-detection      │
-  │  [5] Column inspection + [6] Polygon smoothing      │
-  │  [7] Dam localisation + [8] Raster reprojection     │
-  │  [9] Inundation polygons + [10] Arrival reclassify  │
-  │  [11] H1–H6 hazard rasters + [12] OSM bulk query   │
-  │  [13] Zonal statistics + [14] PAR calculation       │
-  │  [15] Evacuation priority + [16] Shelter assignment │
-  │  [17] Road/infrastructure analysis                  │
-  │  [18] Shapefile export + [19] Annexure 3A/3B        │
-  │  [20] Colour-coded maps + [21] Summary report       │
-  │  [22] ZIP download                                  │
-  └─────────────────────────────────────────────────────┘
-           │
-           ▼
-   EAP-Standard Outputs (Shapefiles · CSVs · Maps · Report)
-```
+│
+▼
+┌─────────────────────────────────────────────────────┐
+│   22-Cell Sequential Jupyter Notebook Pipeline      │
+│                                                     │
+│  [1] Library install + [2] Config (single edit)     │
+│  [3] Input validation + [4] CRS auto-detection      │
+│  [5] Column inspection + [6] Polygon smoothing      │
+│  [7] Dam localisation + [8] Raster reprojection     │
+│  [9] Inundation polygons + [10] Arrival reclassify  │
+│  [11] H1–H6 hazard rasters + [12] OSM bulk query   │
+│  [13] Zonal statistics + [14] PAR calculation       │
+│  [15] Evacuation priority + [16] Shelter assignment │
+│  [17] Road/infrastructure analysis                  │
+│  [18] Shapefile export + [19] Annexure 3A/3B        │
+│  [20] Colour-coded maps + [21] Summary report       │
+│  [22] ZIP download                                  │
+└─────────────────────────────────────────────────────┘
+│
+▼
+EAP-Standard Outputs (Shapefiles · CSVs · Maps · Report)
+
 
 ---
 
 ## Repository Structure
 
-```
 jawalgaon-dam-par-analysis/
 │
 ├── 📓 notebooks/
@@ -109,6 +108,7 @@ jawalgaon-dam-par-analysis/
 │
 ├── 📄 docs/
 │   ├── figures/                       # Maps, diagrams, flowcharts
+│   │   └── banners/                   # Animated SVG banners
 │   ├── annexures/                     # EAP Annexure 3A & 3B (PDF/CSV)
 │   ├── METHODOLOGY.md                 # Full analytical methodology
 │   └── DATA_DICTIONARY.md             # All column/field definitions
@@ -119,8 +119,8 @@ jawalgaon-dam-par-analysis/
 ├── 📋 CHANGELOG.md
 ├── 📌 requirements.txt
 ├── 🚫 .gitignore
-└── 📄 LICENSE
-```
+└── 📄 https://www.google.com/search?q=LICENSE
+
 
 ---
 
@@ -198,16 +198,15 @@ OpenStreetMap data is fetched in a single bulk Overpass API query (roads + all P
 
 ### Option A — Google Colab (Recommended, zero setup)
 Click the badge at the top of this page, or:
-```
 https://colab.research.google.com/github/YOUR_USERNAME/jawalgaon-dam-par-analysis/blob/main/notebooks/Jawalgaon_PAR_Complete.ipynb
-```
+
 Upload your input rasters and shapefiles to `/content/`, then run all cells top-to-bottom.
 
 ### Option B — Local Installation
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/jawalgaon-dam-par-analysis.git
+git clone [https://github.com/YOUR_USERNAME/jawalgaon-dam-par-analysis.git](https://github.com/YOUR_USERNAME/jawalgaon-dam-par-analysis.git)
 cd jawalgaon-dam-par-analysis
 
 # 2. Create a virtual environment
@@ -219,11 +218,10 @@ pip install -r requirements.txt
 
 # 4. Launch Jupyter
 jupyter notebook notebooks/Jawalgaon_PAR_Complete.ipynb
-```
+⚙️ Configuration (Cell 2 only)
+Edit only Cell 2 to point to your files:
 
-### ⚙️ Configuration (Cell 2 only)
-Edit **only Cell 2** to point to your files:
-```python
+Python
 DAM_NAME        = "Jawalgaon Dam"
 DAM_DISTRICT    = "Solapur"
 DAM_STATE       = "Maharashtra"
@@ -236,96 +234,63 @@ PIPING = {
     "wse":          "/content/WSE (Max).Terrain.SENTINAL-30M-DEM.tif",
 }
 # ... same pattern for OVERTOPPING
-```
+Assumptions & Limitations
+See METHODOLOGY.md § Assumptions for the complete list. Key points:
 
----
+Hydraulic inputs are taken as-is. This notebook does not run a hydraulic model; it analyses outputs from HEC-RAS (or equivalent). Model accuracy governs result accuracy.
 
-## Input Data Requirements
+Population data are census-period values. Seasonal migration and day/night population variation are not modelled.
 
-### Hydraulic Rasters (per scenario)
-| Band | File suffix pattern | Unit |
-|------|---------------------|------|
-| Maximum water depth | `Depth (Max)…tif` | metres |
-| Maximum flow velocity | `Velocity (Max)…tif` | m/s |
-| Arrival time | `Arrival Time (Max)…tif` | hours (simulation clock) |
-| Water surface elevation | `WSE (Max)…tif` | metres (MSL) |
+OSM data completeness varies by region. Sparse POI coverage in rural Maharashtra may undercount critical infrastructure.
 
-### Shapefiles
-| Layer | Required Columns | Purpose |
-|-------|-----------------|---------|
-| `village_polygon.shp` | `Name`, `Pop` | Settlement extents + population |
-| `River.shp` | geometry | River centreline for chainage |
-| `Submurgen.shp` | geometry | Reservoir submergence zone |
-| `Watershed.shp` | geometry | Catchment boundary |
-| `shelter locations_*.shp` | `Shelter` | Designated evacuation shelters |
+30 m DEM resolution (Sentinel) limits accuracy for narrow valleys and small settlements; LiDAR would improve results.
 
-> **Column names are configurable.** If your shapefile uses `village_name` instead of `Name`, update the `NAME_COLUMN` variable in Cell 2.
+PAR = proportional area method. It assumes uniform population distribution within each settlement polygon, which overestimates PAR in settlements with concentrated core areas near the flood fringe.
 
----
+Reproducibility
+This notebook is designed for full end-to-end reproducibility:
 
-## Assumptions & Limitations
+All random seeds are fixed where applicable.
 
-See [METHODOLOGY.md § Assumptions](METHODOLOGY.md#assumptions) for the complete list. Key points:
+CRS detection is fully automated — no manual EPSG entry required.
 
-1. **Hydraulic inputs are taken as-is.** This notebook does not run a hydraulic model; it analyses outputs from HEC-RAS (or equivalent). Model accuracy governs result accuracy.
-2. **Population data are census-period values.** Seasonal migration and day/night population variation are not modelled.
-3. **OSM data completeness varies** by region. Sparse POI coverage in rural Maharashtra may undercount critical infrastructure.
-4. **30 m DEM resolution** (Sentinel) limits accuracy for narrow valleys and small settlements; LiDAR would improve results.
-5. **PAR = proportional area method.** It assumes uniform population distribution within each settlement polygon, which overestimates PAR in settlements with concentrated core areas near the flood fringe.
+OSM queries are deterministic given the same bounding box and timestamp.
 
----
+All intermediate outputs are saved to disk so individual cells can be re-run independently.
 
-## Reproducibility
+To reproduce the exact Jawalgaon outputs, extract data/raw/Jawalgaon_PAR_Complete.zip, place the files in /content/ (Colab) or update paths in Cell 2, and run all 22 cells.
 
-This notebook is designed for **full end-to-end reproducibility**:
-- All random seeds are fixed where applicable.
-- CRS detection is fully automated — no manual EPSG entry required.
-- OSM queries are deterministic given the same bounding box and timestamp.
-- All intermediate outputs are saved to disk so individual cells can be re-run independently.
-
-To reproduce the exact Jawalgaon outputs, extract `data/raw/Jawalgaon_PAR_Complete.zip`, place the files in `/content/` (Colab) or update paths in Cell 2, and run all 22 cells.
-
----
-
-## Citation
-
+Citation
 If you use this work in academic research, policy reports, or EAP documentation, please cite:
 
-```bibtex
+Code snippet
 @misc{jawalgaon_par_2026,
   author       = {[Your Name]},
   title        = {Jawalgaon Dam Break — Population At Risk (PAR) Analysis},
   year         = {2026},
   publisher    = {GitHub},
   journal      = {GitHub Repository},
-  howpublished = {\url{https://github.com/YOUR_USERNAME/jawalgaon-dam-par-analysis}},
+  howpublished = {\url{[https://github.com/YOUR_USERNAME/jawalgaon-dam-par-analysis](https://github.com/YOUR_USERNAME/jawalgaon-dam-par-analysis)}},
   note         = {Dual-scenario GIS-based PAR assessment: Piping and Overtopping, Solapur, Maharashtra}
 }
-```
+Related Work & Standards
+CWC (Central Water Commission) EAP Guidelines — this tool produces Annexure 3A/3B compliant with the CWC format
 
----
+NDMA Dam Safety Guidelines (2019)
 
-## Related Work & Standards
+FEMA Inundation Mapping Guidelines — H1–H6 hazard schema follows international practice
 
-- **CWC (Central Water Commission) EAP Guidelines** — this tool produces Annexure 3A/3B compliant with the CWC format
-- **NDMA Dam Safety Guidelines (2019)**
-- **FEMA Inundation Mapping Guidelines** — H1–H6 hazard schema follows international practice
-- **HEC-RAS 2D Hydraulic Modelling** — the upstream hydraulic model whose outputs this tool consumes
+HEC-RAS 2D Hydraulic Modelling — the upstream hydraulic model whose outputs this tool consumes
 
----
-
-## License
-
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
+License
+This project is licensed under the MIT License — see LICENSE for details.
 
 You are free to use, adapt, and redistribute this code for any dam safety or emergency planning application. Attribution is appreciated.
 
----
-
 <div align="center">
 
-*Built for dam safety practitioners, emergency managers, and geospatial researchers working on flood risk in South Asia and beyond.*
+Built for dam safety practitioners, emergency managers, and geospatial researchers working on flood risk in South Asia and beyond.
 
-⭐ **Star this repository** if it helped your work · 🐛 [Report a Bug](.github/ISSUE_TEMPLATE/bug_report.md) · 💡 [Request a Feature](.github/ISSUE_TEMPLATE/feature_request.md)
+⭐ Star this repository if it helped your work · 🐛 Report a Bug · 💡 Request a Feature
 
 </div>

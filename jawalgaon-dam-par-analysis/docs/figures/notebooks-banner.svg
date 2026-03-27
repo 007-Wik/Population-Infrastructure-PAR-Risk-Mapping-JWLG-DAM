@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="100%">
+  <rect width="800" height="150" fill="#2c3e50"/>
+  
+  <text x="210" y="85" font-family="monospace" font-size="32" font-weight="bold" fill="#f39c12">></text>
+  <text x="250" y="85" font-family="monospace" font-size="32" fill="#ecf0f1">Jupyter_Notebooks</text>
+  
+  <rect x="580" y="55" width="18" height="35" fill="#ecf0f1">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
