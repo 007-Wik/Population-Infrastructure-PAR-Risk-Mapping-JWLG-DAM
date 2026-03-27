@@ -1,0 +1,187 @@
+osm_id,category,name,name_mr,amenity,office,operator,phone,addr,pip_inund,ovt_inund,dist_dam_km,pip_dep_max,pip_vel_max,pip_arr_min,pip_ev_cod,pip_ev_win,ovt_dep_max,ovt_vel_max,ovt_arr_min,ovt_ev_cod,ovt_ev_win
+11653196154,Water Well,Water Well,,,,,,,False,False,16.183,,,,P5,8+ hours,,,,P5,8+ hours
+11653196155,Water Well,Water Well,,,,,,,False,False,16.159,,,,P5,8+ hours,,,,P5,8+ hours
+13403842107,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842139,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842170,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842171,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842172,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842173,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842174,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842175,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842176,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842177,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842178,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842179,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842180,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842181,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842182,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842183,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842184,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842185,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842186,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842187,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842188,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842189,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842190,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842191,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842244,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842245,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842246,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842247,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842248,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842249,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842250,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842251,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842252,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842253,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842254,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842255,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842256,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842257,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842258,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842260,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842261,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842262,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842263,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13403842264,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13404392633,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13404392634,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13404392635,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13404392636,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13404392637,Water Well,Water Well,,,,,,,False,False,0.389,,,,P5,8+ hours,,,,P5,8+ hours
+13404392638,Water Well,Water Well,,,,,,,False,False,0.389,,,,P5,8+ hours,,,,P5,8+ hours
+13404392639,Water Well,Water Well,,,,,,,False,False,0.389,,,,P5,8+ hours,,,,P5,8+ hours
+13404392640,Water Well,Water Well,,,,,,,False,False,0.875,,,,P5,8+ hours,,,,P5,8+ hours
+13404392641,Water Well,Water Well,,,,,,,False,False,2.074,,,,P5,8+ hours,,,,P5,8+ hours
+13404392642,Water Well,Water Well,,,,,,,False,False,2.074,,,,P5,8+ hours,,,,P5,8+ hours
+13477044544,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044545,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044546,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044547,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044548,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044549,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044550,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044551,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044552,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044553,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044554,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044555,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044556,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044557,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044558,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044559,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044560,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044561,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044562,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044563,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044564,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044565,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+13477044566,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours
+1365347375,Water Well,Water Well — Ladole — Ladole — Ladole,,,,,,,False,False,14.197,,,,P5,8+ hours,,,,P5,8+ hours
+1365347376,Water Well,Water Well — Ladole — Ladole — Ladole,,,,,,,False,False,14.197,,,,P5,8+ hours,,,,P5,8+ hours
+1365347377,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.197,,,,P5,8+ hours,,,,P5,8+ hours
+1365347877,Water Well,Water Well,,,,,,,False,False,16.183,,,,P5,8+ hours,,,,P5,8+ hours
+1365347878,Water Well,Water Well,,,,,,,False,False,16.159,,,,P5,8+ hours,,,,P5,8+ hours
+1365347879,Water Well,Water Well,,,,,,,False,False,16.183,,,,P5,8+ hours,,,,P5,8+ hours
+1365347880,Water Well,Water Well,,,,,,,False,False,16.183,,,,P5,8+ hours,,,,P5,8+ hours
+1365347881,Water Well,Water Well,,,,,,,False,False,16.183,,,,P5,8+ hours,,,,P5,8+ hours
+1365347882,Water Well,Water Well,,,,,,,False,False,16.183,,,,P5,8+ hours,,,,P5,8+ hours
+1365347883,Water Well,Water Well,,,,,,,False,False,16.183,,,,P5,8+ hours,,,,P5,8+ hours
+1365347884,Water Well,Water Well,,,,,,,False,False,16.183,,,,P5,8+ hours,,,,P5,8+ hours
+1365347885,Water Well,Water Well,,,,,,,False,False,16.183,,,,P5,8+ hours,,,,P5,8+ hours
+1365348423,Water Well,Water Well,,,,,,,False,False,16.183,,,,P5,8+ hours,,,,P5,8+ hours
+1365348424,Water Well,Water Well,,,,,,,False,False,16.183,,,,P5,8+ hours,,,,P5,8+ hours
+1365348425,Water Well,Water Well,,,,,,,False,False,16.183,,,,P5,8+ hours,,,,P5,8+ hours
+1365348426,Water Well,Water Well,,,,,,,False,False,16.183,,,,P5,8+ hours,,,,P5,8+ hours
+1365348427,Water Well,Water Well,,,,,,,False,False,16.183,,,,P5,8+ hours,,,,P5,8+ hours
+1365348428,Water Well,Water Well,,,,,,,False,False,16.183,,,,P5,8+ hours,,,,P5,8+ hours
+1365348429,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,16.132,,,,P5,8+ hours,,,,P5,8+ hours
+1365348430,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,16.132,,,,P5,8+ hours,,,,P5,8+ hours
+1365348431,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,16.132,,,,P5,8+ hours,,,,P5,8+ hours
+1365348432,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.239,,,,P5,8+ hours,,,,P5,8+ hours
+1365348433,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.239,,,,P5,8+ hours,,,,P5,8+ hours
+1365348434,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1365348435,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1365348436,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1365348437,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1365348438,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1365348439,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1365348440,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1365348441,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1365348442,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1365348443,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1365348444,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1365348445,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1365348446,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1365348447,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.197,,,,P5,8+ hours,,,,P5,8+ hours
+1365348448,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.197,,,,P5,8+ hours,,,,P5,8+ hours
+1365348449,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1365348450,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1365348451,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1365348452,Water Well,Water Well — Vairag — Vairag — Vairag,,,,,,,False,False,14.215,,,,P5,8+ hours,,,,P5,8+ hours
+1371595287,Water Well,Water Well,,,,,,,False,False,8.686,,,,P5,8+ hours,,,,P5,8+ hours
+1371595288,Water Well,Water Well,,,,,,,False,False,8.686,,,,P5,8+ hours,,,,P5,8+ hours
+1371595289,Water Well,Water Well,,,,,,,False,False,8.717,,,,P5,8+ hours,,,,P5,8+ hours
+1371595290,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,9.473,,,,P5,8+ hours,,,,P5,8+ hours
+1371595291,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.092,,,,P5,8+ hours,,,,P5,8+ hours
+1371595292,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.092,,,,P5,8+ hours,,,,P5,8+ hours
+1371595293,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.068,,,,P5,8+ hours,,,,P5,8+ hours
+1371595294,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.078,,,,P5,8+ hours,,,,P5,8+ hours
+1371595295,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.092,,,,P5,8+ hours,,,,P5,8+ hours
+1371595296,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.113,,,,P5,8+ hours,,,,P5,8+ hours
+1371595297,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.113,,,,P5,8+ hours,,,,P5,8+ hours
+1371595298,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.131,,,,P5,8+ hours,,,,P5,8+ hours
+1371595299,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.131,,,,P5,8+ hours,,,,P5,8+ hours
+1371595300,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.131,,,,P5,8+ hours,,,,P5,8+ hours
+1371595301,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.131,,,,P5,8+ hours,,,,P5,8+ hours
+1371595302,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.131,,,,P5,8+ hours,,,,P5,8+ hours
+1371595303,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.131,,,,P5,8+ hours,,,,P5,8+ hours
+1371595304,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.131,,,,P5,8+ hours,,,,P5,8+ hours
+1371595305,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.131,,,,P5,8+ hours,,,,P5,8+ hours
+1371595306,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.131,,,,P5,8+ hours,,,,P5,8+ hours
+1371595307,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.113,,,,P5,8+ hours,,,,P5,8+ hours
+1371595308,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.113,,,,P5,8+ hours,,,,P5,8+ hours
+1371595309,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.113,,,,P5,8+ hours,,,,P5,8+ hours
+1371595310,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.113,,,,P5,8+ hours,,,,P5,8+ hours
+1371595311,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.113,,,,P5,8+ hours,,,,P5,8+ hours
+1371595312,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.113,,,,P5,8+ hours,,,,P5,8+ hours
+1371595313,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.113,,,,P5,8+ hours,,,,P5,8+ hours
+1371595314,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,12.031,,,,P5,8+ hours,,,,P5,8+ hours
+1371595315,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,9.457,,,,P5,8+ hours,,,,P5,8+ hours
+1371595316,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,9.441,,,,P5,8+ hours,,,,P5,8+ hours
+1371595317,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,9.144,,,,P5,8+ hours,,,,P5,8+ hours
+1371595318,Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),,,,,,,False,False,8.812,,,,P5,8+ hours,,,,P5,8+ hours
+1371595319,Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),,,,,,,False,False,8.717,,,,P5,8+ hours,,,,P5,8+ hours
+1371595320,Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),,,,,,,False,False,9.173,,,,P5,8+ hours,,,,P5,8+ hours
+1371595321,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,9.173,,,,P5,8+ hours,,,,P5,8+ hours
+1371595322,Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),,,,,,,False,False,9.144,,,,P5,8+ hours,,,,P5,8+ hours
+1371595323,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,9.473,,,,P5,8+ hours,,,,P5,8+ hours
+1371595324,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,9.457,,,,P5,8+ hours,,,,P5,8+ hours
+1371595325,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,9.457,,,,P5,8+ hours,,,,P5,8+ hours
+1371595326,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,9.473,,,,P5,8+ hours,,,,P5,8+ hours
+1371595327,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,9.473,,,,P5,8+ hours,,,,P5,8+ hours
+1371595328,Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),,,,,,,False,False,9.457,,,,P5,8+ hours,,,,P5,8+ hours
+1371595329,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,9.473,,,,P5,8+ hours,,,,P5,8+ hours
+1371595330,Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),,,,,,,False,False,9.173,,,,P5,8+ hours,,,,P5,8+ hours
+1371595331,Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),,,,,,,False,False,9.111,,,,P5,8+ hours,,,,P5,8+ hours
+1371595332,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,11.358,,,,P5,8+ hours,,,,P5,8+ hours
+1371595333,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,9.485,,,,P5,8+ hours,,,,P5,8+ hours
+1371595334,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,9.485,,,,P5,8+ hours,,,,P5,8+ hours
+1371595335,Water Well,Water Well — Raleras — Raleras — Raleras,,,,,,,False,False,9.144,,,,P5,8+ hours,,,,P5,8+ hours
+1371595336,Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,,,,,,,False,False,8.658,,,,P5,8+ hours,,,,P5,8+ hours
+1371595337,Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,,,,,,,False,False,8.658,,,,P5,8+ hours,,,,P5,8+ hours
+1371595338,Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,,,,,,,False,False,8.658,,,,P5,8+ hours,,,,P5,8+ hours
+1371595339,Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,,,,,,,False,False,8.647,,,,P5,8+ hours,,,,P5,8+ hours
+1371595340,Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,,,,,,,False,False,8.634,,,,P5,8+ hours,,,,P5,8+ hours
+1371595341,Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,,,,,,,False,False,8.634,,,,P5,8+ hours,,,,P5,8+ hours
+1371595342,Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,,,,,,,False,False,8.634,,,,P5,8+ hours,,,,P5,8+ hours
+1371595343,Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,,,,,,,False,False,8.634,,,,P5,8+ hours,,,,P5,8+ hours
+1371595344,Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),,,,,,,False,False,8.658,,,,P5,8+ hours,,,,P5,8+ hours
+1371595345,Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,,,,,,,False,False,8.651,,,,P5,8+ hours,,,,P5,8+ hours
+1371595346,Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,,,,,,,False,False,8.634,,,,P5,8+ hours,,,,P5,8+ hours
+1371595347,Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),,,,,,,False,False,8.634,,,,P5,8+ hours,,,,P5,8+ hours
+1371595348,Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),,,,,,,False,False,8.634,,,,P5,8+ hours,,,,P5,8+ hours
+1371595349,Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),,,,,,,False,False,8.634,,,,P5,8+ hours,,,,P5,8+ hours
+1371595350,Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,,,,,,,False,False,8.616,,,,P5,8+ hours,,,,P5,8+ hours
+1372375019,Water Well,Water Well,,,,,,,False,False,0.0,,,,P5,8+ hours,,,,P5,8+ hours

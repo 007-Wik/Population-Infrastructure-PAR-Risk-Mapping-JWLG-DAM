@@ -1,0 +1,11 @@
+Sl No,Village Name,District,Area Inundated (%),Original Area (ha),Inundated Area (ha),Existing Population,Effected Population (PAR),PAR % of Village,Max Depth (m),Avg Depth (m),Max Velocity (m/s),Max WSE (m),Flood Arrival (hrs),Hazard Class,Hazard Level,Evacuation Window,Evacuation Priority,Flood Status Callout,Dist from Jawalgaon Dam (km),Nearest Shelter,Shelter Dist (km),Vulnerability Index,Vulnerability Category,Scenario
+1,Hattij,Solapur,17.0%,5.5,0.94,1751,298,17.0%,3.934,1.413,1.491,490.864,3.47,H1,Very Low,2–4 hours,URGENT,VILLAGE PARTIALLY FLOODED,2.75,None,2.368,0.9833,Critical,Piping
+2,Hattij,Solapur,7.0%,18.25,1.28,1751,123,7.0%,4.721,1.554,1.263,490.537,3.54,H1,Very Low,2–4 hours,URGENT,VILLAGE PARTIALLY FLOODED,2.99,Shelter for Hatij Flood Afffected People,2.008,0.6883,Very High,Piping
+3,Hingani(ratanjan),Solapur,4.8%,7.97,0.38,981,47,4.8%,1.301,0.55,0.343,487.38,4.16,H1,Very Low,4–6 hours,HIGH,VILLAGE MARGINALLY AFFECTED,5.59,None,0.556,0.5822,High,Piping
+4,Dhamgaon(Dumala),Solapur,1.4%,32.17,0.45,506,7,1.4%,1.762,0.913,0.339,482.575,5.16,H1,Very Low,4–6 hours,HIGH,VILLAGE MARGINALLY AFFECTED,8.634,None,0.099,0.4768,High,Piping
+5,Raleras,Solapur,8.7%,8.3,0.72,2316,201,8.7%,1.906,0.7,0.87,477.646,5.96,H1,Very Low,4–6 hours,HIGH,VILLAGE PARTIALLY FLOODED,12.043,None,0.813,0.7147,Very High,Piping
+6,Sasure,Solapur,5.3%,44.62,2.39,3427,183,5.3%,2.998,1.181,1.702,475.847,6.49,H1,Very Low,6–8 hours,MODERATE,VILLAGE PARTIALLY FLOODED,14.065,None,0.549,0.6317,Very High,Piping
+7,Dahithane,Solapur,12.3%,17.46,2.15,1765,217,12.3%,4.924,1.776,1.281,470.734,7.65,H1,Very Low,6–8 hours,MODERATE,VILLAGE PARTIALLY FLOODED,17.524,None,1.215,0.7562,Very High,Piping
+8,Mungshi,Solapur,11.5%,30.16,3.48,1291,149,11.5%,5.711,1.37,1.522,467.244,8.53,H1,Very Low,8+ hours,PLANNED,VILLAGE PARTIALLY FLOODED,20.643,None,1.307,0.678,Very High,Piping
+9,Waluj,Solapur,1.0%,19.24,0.2,0,0,N/A,2.314,0.863,0.592,461.559,9.41,H1,Very Low,8+ hours,PLANNED,VILLAGE MARGINALLY AFFECTED,24.718,None,1.019,0.3681,Medium,Piping
+TOTAL,ALL 9 AFFECTED VILLAGES,,,,,13788,1225,8.9%,,,,,,,,,,,,,,,,Piping

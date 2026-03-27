@@ -1,0 +1,362 @@
+Category,Facility Name,Name (Marathi),Amenity,Operator,Phone,Address,Dist.Dam(km),Pip Flooded?,Pip Depth(m),Pip Arrival(h),Pip Evac,Pip Evac Window,Ovt Flooded?,Ovt Depth(m),Ovt Arrival(h),Ovt Evac,Ovt Evac Window
+Temple / Place of Worship,Tuljabhavani mandir,—,place_of_worship,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Hospital,Sai Mangal Hospital,—,hospital,—,—,"Borgaonkar Complex, Naldurg Road, Above District Co-operative Central Bank, Tuljapur",0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Hospital,Peshwe Hospital,—,hospital,—,—,Near Water Tank Shukrawar Peth Tuljapur,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Hospital,Malba Hospital,—,hospital,—,—,"Osmanabad Road, Kaman Cese, Tulajpur",0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Hospital,Yadav Nursing and Maternity Home - Tuljapur,—,hospital,—,—,"Mathurai Nagar,Near St Bus Stand",0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Primary Health Centre (PHC),PHC Gaudgaon,—,—,—,—,Gaudgaon,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+School,School,—,school,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Temple / Place of Worship,Temple / Place of Worship,—,place_of_worship,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Temple / Place of Worship,Tuljabhavani Pujari Dhanraj Ranjeet Karade,—,place_of_worship,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Tuljapur Bypass,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Tuljapur Bypass,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Electricity Substation,Toljapur,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+College / University,Tata Institute of Social Sciences - TISS Tuljapur,—,college,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Hospital,RHC,—,hospital,—,—,"Latur Road, Parbhani, Tuljapur",0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Electricity Substation,Electricity Substation,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Hospital,Hospital,—,hospital,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Temple / Place of Worship,Ghatshil temple,—,place_of_worship,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bus Station,Bus Station,—,bus_station,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+School,School,—,school,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Dam,Dam,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Apsinga Road,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Tuljapur Bypass,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Tuljapur Bypass,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Tuljapur Bypass,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Tuljapur Bypass,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Tuljapur Bypass,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Tuljapur Bypass,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Tuljapur Bypass,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Tuljapur Bypass,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Tuljapur Bypass,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Tuljapur Bypass,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Tuljapur Bypass,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Tuljapur Bypass,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Tuljapur Bypass,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bus Stop,Bus Stop,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Hospital,Kshirasagar Hospital,—,hospital,—,—,"Latur Road, Lohia Mangal Karyalay, Tuljapur",0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bus Stop,Bus Stop,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bus Stop,Bus Stop,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bus Stop,Bus Stop,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Hospital,Kutwal Multi Speciality Hospital,—,hospital,—,—,"Tuljapur-Akkalkot Road, Vivekanand Nagar, Tuljapur",0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Hospital,Kadam Hospital,—,hospital,—,—,"Latur Road, Behind Bus Depot, Lohia Mangal Karyalay, Tuljapur",0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Ambabaiwadi — Ambabaiwadi — Ambabaiwadi,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Ambegaon — Ambegaon — Ambegaon,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Ambegaon — Ambegaon — Ambegaon,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Tuljapur Bypass,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Ambegaon — Ambegaon — Ambegaon,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Ambegaon — Ambegaon — Ambegaon,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Ambabaiwadi — Ambabaiwadi — Ambabaiwadi,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.0,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Jotibachiwadi — Jotibachiwadi — Jotibachiwadi,—,—,—,—,—,0.081,True,6.285,2.658,P2,2–4 hours,True,8.25,0.656,P1,0 to 2 hour
+Bridge,Bridge,—,—,—,—,—,0.364,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.389,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.389,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.389,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Jotibachiwadi — Jotibachiwadi — Jotibachiwadi,—,—,—,—,—,0.743,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,0.875,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Jotibachiwadi — Jotibachiwadi — Jotibachiwadi,—,—,—,—,—,0.999,True,6.315,2.803,P2,2–4 hours,True,7.614,0.74,P1,0 to 2 hour
+Bridge,Bridge — Jotibachiwadi — Jotibachiwadi — Jotibachiwadi,—,—,—,—,—,1.156,True,6.149,2.811,P2,2–4 hours,True,7.384,0.759,P1,0 to 2 hour
+Bridge,Bridge — Hattij — Hattij — Hattij,—,—,—,—,—,1.638,True,5.856,2.859,P2,2–4 hours,True,7.164,0.961,P1,0 to 2 hour
+Water Well,Water Well,—,—,—,—,—,2.074,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,2.074,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Hattij — Hattij — Hattij,—,—,—,—,—,2.075,True,5.31,3.355,P2,2–4 hours,True,7.381,1.113,P1,0 to 2 hour
+Bridge,Bridge — Hattij — Hattij — Hattij,—,—,—,—,—,2.26,True,2.797,3.484,P2,2–4 hours,True,5.026,1.165,P1,0 to 2 hour
+Bridge,Bridge — Hattij — Hattij — Hattij,—,—,—,—,—,2.902,True,6.0,3.574,P2,2–4 hours,True,8.067,1.208,P1,0 to 2 hour
+Primary Health Centre (PHC),"SubCentre, Ratanjan — Ratajan — Ratajan — Ratajan",—,—,—,—,Ratanjan,3.384,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Hattij — Hattij — Hattij,—,—,—,—,—,3.578,True,5.888,3.761,P2,2–4 hours,True,8.33,1.255,P1,0 to 2 hour
+Bridge,Bridge — Hattij — Hattij — Hattij,—,—,—,—,—,3.884,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Hingani(ratanjan) — Hingani(ratanjan) — Hingani(ratanjan),—,—,—,—,—,4.279,True,6.677,3.861,P2,2–4 hours,True,8.717,1.317,P1,0 to 2 hour
+Bridge,Bridge — Hingani(ratanjan) — Hingani(ratanjan) — Hingani(ratanjan),—,—,—,—,—,4.974,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Hingani(ratanjan) — Hingani(ratanjan) — Hingani(ratanjan),—,—,—,—,—,5.627,True,7.052,4.175,P3,4–6 hours,True,8.975,1.412,P1,0 to 2 hour
+Bridge,Bridge — Hingani(ratanjan) — Hingani(ratanjan) — Hingani(ratanjan),—,—,—,—,—,5.972,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Hingani(ratanjan) — Hingani(ratanjan) — Hingani(ratanjan),—,—,—,—,—,6.676,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Khuttewadi — Khuttewadi — Khuttewadi,—,—,—,—,—,7.046,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Khuttewadi — Khuttewadi — Khuttewadi,—,—,—,—,—,7.062,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,7.062,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,7.445,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,8.259,True,6.477,5.041,P3,4–6 hours,True,8.22,1.863,P1,0 to 2 hour
+Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,8.49,True,0.698,5.164,P3,4–6 hours,True,2.553,1.903,P1,0 to 2 hour
+Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,8.518,True,2.816,5.143,P3,4–6 hours,True,4.665,1.9,P1,0 to 2 hour
+Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,8.52,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Khuttewadi — Khuttewadi — Khuttewadi,—,—,—,—,—,8.575,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,8.597,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,—,—,—,—,—,8.616,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,—,—,—,—,—,8.634,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,—,—,—,—,—,8.634,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,8.634,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,8.634,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,—,—,—,—,—,8.634,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,—,—,—,—,—,8.634,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,8.634,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,8.634,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,—,—,—,—,—,8.634,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,—,—,—,—,—,8.647,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,8.647,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,—,—,—,—,—,8.651,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,—,—,—,—,—,8.658,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,—,—,—,—,—,8.658,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Khuttewadi — Khuttewadi — Khuttewadi,—,—,—,—,—,8.658,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,8.658,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,8.663,True,2.495,5.157,P3,4–6 hours,True,4.357,1.903,P1,0 to 2 hour
+Water Well,Water Well,—,—,—,—,—,8.686,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,8.686,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,8.717,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,8.717,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,8.812,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,9.083,True,6.533,5.262,P3,4–6 hours,True,8.261,1.976,P1,0 to 2 hour
+Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,9.111,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,9.144,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,9.144,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,9.144,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,9.154,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,9.173,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,9.173,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,9.173,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,9.441,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,9.457,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,9.457,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,9.457,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,9.457,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Raleras — Raleras — Raleras,—,—,—,—,—,9.457,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Raleras — Raleras — Raleras,—,—,—,—,—,9.473,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,9.473,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,9.473,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,9.473,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,9.473,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,9.473,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,9.485,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),—,—,—,—,—,9.485,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,9.485,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Sarjapur — Sarjapur — Sarjapur,—,—,—,—,—,10.177,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Sarjapur — Sarjapur — Sarjapur,—,—,—,—,—,10.43,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Sarjapur — Sarjapur — Sarjapur,—,—,—,—,—,10.43,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Sarjapur — Sarjapur — Sarjapur,—,—,—,—,—,10.493,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — virag — virag — virag,—,—,—,—,—,10.493,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,11.358,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Raleras — Raleras — Raleras,—,—,—,—,—,11.776,True,6.325,5.919,P3,4–6 hours,True,8.905,2.266,P2,2–4 hours
+Bridge,Bridge — Raleras — Raleras — Raleras,—,—,—,—,—,11.79,True,6.325,5.922,P3,4–6 hours,True,8.809,2.262,P2,2–4 hours
+Bridge,Bridge — Raleras — Raleras — Raleras,—,—,—,—,—,11.802,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Raleras — Raleras — Raleras,—,—,—,—,—,11.992,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.031,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Raleras — Raleras — Raleras,—,—,—,—,—,12.043,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.068,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.078,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.092,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.092,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.092,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.113,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.113,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.113,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.113,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.113,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.113,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.113,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.113,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.113,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.131,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.131,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.131,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.131,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.131,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.131,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.131,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.131,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Raleras — Raleras — Raleras,—,—,—,—,—,12.131,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Raleras — Raleras — Raleras,—,—,—,—,—,12.375,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Raleras — Raleras — Raleras,—,—,—,—,—,12.901,False,,,P5,8+ hours,True,2.301,2.577,P2,2–4 hours
+Bridge,Bridge — Vairag — Vairag — Vairag,—,—,—,—,—,13.403,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Vairag — Vairag — Vairag,—,—,—,—,—,13.539,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Sasure — Sasure — Sasure,—,—,—,—,—,13.804,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Vairag — Vairag — Vairag,—,—,—,—,—,14.158,False,,,P5,8+ hours,False,,,P5,8+ hours
+Primary Health Centre (PHC),"PHC, Vairag — Vairag — Vairag — Vairag",—,—,—,—,Vairag,14.197,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.197,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Ladole — Ladole — Ladole,—,—,—,—,—,14.197,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Vairag — Vairag — Vairag,—,—,—,—,—,14.197,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Ladole — Ladole — Ladole,—,—,—,—,—,14.197,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.197,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Ladole — Ladole — Ladole,—,—,—,—,—,14.197,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.197,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.215,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.239,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — virag — virag — virag,—,—,—,—,—,14.239,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,14.239,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Sasure — Sasure — Sasure,—,—,—,—,—,14.914,True,2.198,6.922,P4,6–8 hours,True,3.878,2.908,P2,2–4 hours
+Bridge,Bridge — Sasure — Sasure — Sasure,—,—,—,—,—,15.743,False,,,P5,8+ hours,True,1.154,3.226,P2,2–4 hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,16.132,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,16.132,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Vairag — Vairag — Vairag,—,—,—,—,—,16.132,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well — Vairag — Vairag — Vairag,—,—,—,—,—,16.132,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Vairag — Vairag — Vairag,—,—,—,—,—,16.132,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.159,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Vairag — Vairag — Vairag,—,—,—,—,—,16.159,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,16.159,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.159,False,,,P5,8+ hours,False,,,P5,8+ hours
+Electricity Substation,Vairag 220/33 KV ss — Vairag — Vairag — Vairag,—,—,—,—,—,16.159,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Vairag — Vairag — Vairag,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Water Well,Water Well,—,—,—,—,—,16.183,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,16.591,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,16.607,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,16.607,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,16.623,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,16.623,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,16.623,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Vairag — Vairag — Vairag,—,—,—,—,—,16.623,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,16.623,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,16.623,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,16.623,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge,—,—,—,—,—,16.623,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Dahithane — Dahithane — Dahithane,—,—,—,—,—,17.461,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Raleras — Raleras — Raleras,—,—,—,—,—,19.233,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Mungshi — Mungshi — Mungshi,—,—,—,—,—,19.31,False,,,P5,8+ hours,False,,,P5,8+ hours
+Bridge,Bridge — Waluj — Waluj — Waluj,—,—,—,—,—,23.824,True,3.679,9.416,P5,8+ hours,True,6.172,4.236,P3,4–6 hours

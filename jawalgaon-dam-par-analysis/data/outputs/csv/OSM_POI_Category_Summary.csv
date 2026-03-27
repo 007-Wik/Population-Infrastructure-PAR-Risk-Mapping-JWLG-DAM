@@ -1,0 +1,12 @@
+Category,Total,Pip_Flooded,Ovt_Flooded,Pip_MaxDepth,Ovt_MaxDepth,Pip_MinArrival,Nearest_km
+Bridge,147,19,21,7.052,8.975,2.658,0.0
+Bus Station,1,0,0,,,,0.0
+Bus Stop,4,0,0,,,,0.0
+College / University,1,0,0,,,,0.0
+Dam,1,0,0,,,,0.0
+Electricity Substation,3,0,0,,,,0.0
+Hospital,9,0,0,,,,0.0
+Primary Health Centre (PHC),3,0,0,,,,0.0
+School,2,0,0,,,,0.0
+Temple / Place of Worship,4,0,0,,,,0.0
+Water Well,186,0,0,,,,0.0

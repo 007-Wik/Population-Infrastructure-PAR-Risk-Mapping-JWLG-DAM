@@ -1,0 +1,50 @@
+name: Feature Request
+description: Suggest an enhancement or new capability
+title: "[FEATURE] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea to improve this tool for dam safety or EAP work? We'd love to hear it.
+
+  - type: dropdown
+    id: feature_area
+    attributes:
+      label: Feature Area
+      options:
+        - Hydraulic analysis (new raster processing)
+        - PAR methodology (new estimation approach)
+        - Infrastructure analysis (new data sources)
+        - EAP outputs (new table/report format)
+        - Visualisation (new map types)
+        - Portability (adapting to different dams/regions)
+        - Performance (speed or memory improvement)
+        - Documentation
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem_statement
+    attributes:
+      label: Problem Statement
+      description: What current limitation or gap are you trying to address?
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed_solution
+    attributes:
+      label: Proposed Solution
+      description: How would you implement this? Even rough ideas are helpful.
+    validations:
+      required: false
+
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Any guidelines, papers, or standards that support this feature?
+    validations:
+      required: false

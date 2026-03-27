@@ -1,0 +1,10 @@
+Sl No,Evacuation Window,Priority Order,Priority Code,Priority Label,Village Name,District,Dist from Jawalgaon Dam (km),Max Depth (m),Avg Depth (m),Max Velocity (m/s),Avg Velocity (m/s),Max WSE (m),Flood Arrival Time (hrs),Hazard Class,Hazard Level,Flood Status,Village Surrounded,Road Access Cut,Nearest Shelter,Shelter Dist (km),Vulnerability Index,Vulnerability Category,Scenario
+1,2–4 hours,2,P2,URGENT,Hattij,Solapur,2.75,3.934,1.413,1.491,0.721,490.864,3.47,H1,Very Low,VILLAGE PARTIALLY FLOODED,NO,NO,None,2.368,0.9833,Critical,Piping
+2,2–4 hours,2,P2,URGENT,Hattij,Solapur,2.99,4.721,1.554,1.263,0.339,490.537,3.54,H1,Very Low,VILLAGE PARTIALLY FLOODED,NO,NO,Shelter for Hatij Flood Afffected People,2.008,0.6883,Very High,Piping
+3,4–6 hours,3,P3,HIGH,Hingani(ratanjan),Solapur,5.59,1.301,0.55,0.343,0.183,487.38,4.16,H1,Very Low,VILLAGE MARGINALLY AFFECTED,NO,NO,None,0.556,0.5822,High,Piping
+4,4–6 hours,3,P3,HIGH,Dhamgaon(Dumala),Solapur,8.634,1.762,0.913,0.339,0.212,482.575,5.16,H1,Very Low,VILLAGE MARGINALLY AFFECTED,NO,NO,None,0.099,0.4768,High,Piping
+5,4–6 hours,3,P3,HIGH,Raleras,Solapur,12.043,1.906,0.7,0.87,0.211,477.646,5.96,H1,Very Low,VILLAGE PARTIALLY FLOODED,NO,NO,None,0.813,0.7147,Very High,Piping
+6,6–8 hours,4,P4,MODERATE,Sasure,Solapur,14.065,2.998,1.181,1.702,0.398,475.847,6.49,H1,Very Low,VILLAGE PARTIALLY FLOODED,NO,NO,None,0.549,0.6317,Very High,Piping
+7,6–8 hours,4,P4,MODERATE,Dahithane,Solapur,17.524,4.924,1.776,1.281,0.634,470.734,7.65,H1,Very Low,VILLAGE PARTIALLY FLOODED,NO,NO,None,1.215,0.7562,Very High,Piping
+8,8+ hours,5,P5,PLANNED,Mungshi,Solapur,20.643,5.711,1.37,1.522,0.495,467.244,8.53,H1,Very Low,VILLAGE PARTIALLY FLOODED,NO,NO,None,1.307,0.678,Very High,Piping
+9,8+ hours,5,P5,PLANNED,Waluj,Solapur,24.718,2.314,0.863,0.592,0.31,461.559,9.41,H1,Very Low,VILLAGE MARGINALLY AFFECTED,NO,NO,None,1.019,0.3681,Medium,Piping

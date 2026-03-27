@@ -1,0 +1,23 @@
+,Village,Distance from Dam (km),Piping — Arrival (hrs),Piping — Wave Speed (km/hr),Piping — Evac Window,Piping — Priority,Overtopping — Arrival (hrs),Overtopping — Wave Speed (km/hr),Overtopping — Evac Window,Overtopping — Priority,Population,PAR (Piping),PAR (Overtopping)
+1,Ambegaon,0.0,—,—,8+ hours,PLANNED,—,—,8+ hours,PLANNED,686,0,0
+2,Ambabaiwadi,0.31,—,—,8+ hours,PLANNED,—,—,8+ hours,PLANNED,1315,0,0
+3,Jotibachiwadi,0.54,—,—,8+ hours,PLANNED,—,—,8+ hours,PLANNED,2276,0,0
+4,Hattij,2.75,3.47,0.79,2–4 hours,URGENT,1.17,2.35,0 to 2 hour,IMMEDIATE,1751,298,737
+5,Malegaon,2.85,—,—,8+ hours,PLANNED,—,—,8+ hours,PLANNED,2529,0,0
+6,Hattij,2.99,3.54,0.84,2–4 hours,URGENT,1.18,2.54,0 to 2 hour,IMMEDIATE,1751,123,331
+7,Ratajan,3.37,—,—,8+ hours,PLANNED,—,—,8+ hours,PLANNED,2529,0,0
+8,Ladole,3.44,—,—,8+ hours,PLANNED,—,—,8+ hours,PLANNED,1254,0,0
+9,Hingani(ratanjan),5.59,4.16,1.34,4–6 hours,HIGH,1.4,3.98,0 to 2 hour,IMMEDIATE,981,47,159
+10,Khuttewadi,7.05,—,—,8+ hours,PLANNED,—,—,8+ hours,PLANNED,635,0,0
+11,Dhamgaon(Dumala),8.63,5.16,1.67,4–6 hours,HIGH,1.9,4.54,0 to 2 hour,IMMEDIATE,506,7,18
+12,Sarjapur,10.21,—,—,8+ hours,PLANNED,—,—,8+ hours,PLANNED,1135,0,0
+13,Raleras,11.99,—,—,8+ hours,PLANNED,—,—,8+ hours,PLANNED,2316,0,0
+14,Raleras,12.04,5.96,2.02,4–6 hours,HIGH,2.31,5.22,2–4 hours,URGENT,2316,201,742
+15,virag,13.42,—,—,8+ hours,PLANNED,—,—,8+ hours,PLANNED,19970,0,0
+16,Sasure,14.06,6.49,2.17,6–8 hours,MODERATE,2.6,5.41,2–4 hours,URGENT,3427,183,641
+17,Vairag,14.2,—,—,8+ hours,PLANNED,—,—,8+ hours,PLANNED,19970,0,0
+18,Dahithane,17.52,7.65,2.29,6–8 hours,MODERATE,3.3,5.31,2–4 hours,URGENT,1765,217,562
+19,Mungshi,20.64,8.53,2.42,8+ hours,PLANNED,3.77,5.48,2–4 hours,URGENT,1291,149,399
+20,Bhagaiwadi,22.56,—,—,8+ hours,PLANNED,—,—,8+ hours,PLANNED,0,0,0
+21,Waluj,24.32,—,—,8+ hours,PLANNED,4.24,5.73,4–6 hours,HIGH,1426,0,9
+22,Waluj,24.72,9.41,2.63,8+ hours,PLANNED,4.23,5.84,4–6 hours,HIGH,0,0,0

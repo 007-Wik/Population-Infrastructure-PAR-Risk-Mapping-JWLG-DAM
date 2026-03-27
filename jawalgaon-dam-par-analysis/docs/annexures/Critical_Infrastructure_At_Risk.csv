@@ -1,0 +1,165 @@
+Icon,Facility Type,Facility Name,Distance (km),Alert Zone,Pip Flooded,Ovt Flooded,Pip Depth (m),Ovt Depth (m),Pip Arrival (h),Ovt Arrival (h),Remarks
+🏥,Hospital,Sai Mangal Hospital,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🏥,Hospital,Peshwe Hospital,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🏥,Hospital,Malba Hospital,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🏥,Hospital,Yadav Nursing and Maternity Home - Tuljapur,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🏥,Primary Health Centre (PHC),PHC Gaudgaon,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🏥,Hospital,Kadam Hospital,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🏥,Hospital,Kshirasagar Hospital,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🏥,Hospital,Kutwal Multi Speciality Hospital,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+⚡,Electricity Substation,Toljapur,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🏫,School,School,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🏥,Hospital,Hospital,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🏥,Hospital,RHC,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+⚡,Electricity Substation,Electricity Substation,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Ambegaon — Ambegaon — Ambegaon,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Ambabaiwadi — Ambabaiwadi — Ambabaiwadi,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Ambegaon — Ambegaon — Ambegaon,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Ambabaiwadi — Ambabaiwadi — Ambabaiwadi,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Ambegaon — Ambegaon — Ambegaon,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Ambegaon — Ambegaon — Ambegaon,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Tuljapur Bypass,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Tuljapur Bypass,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Tuljapur Bypass,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Tuljapur Bypass,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Tuljapur Bypass,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Tuljapur Bypass,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Tuljapur Bypass,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Tuljapur Bypass,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Tuljapur Bypass,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Tuljapur Bypass,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Tuljapur Bypass,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Tuljapur Bypass,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Apsinga Road,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🏫,School,School,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Tuljapur Bypass,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Tuljapur Bypass,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Tuljapur Bypass,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Tuljapur Bypass,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,0.0,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Jotibachiwadi — Jotibachiwadi — Jotibachiwadi,0.08,Zone I,YES,YES,6.29,8.25,2.66,0.66,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge,0.36,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Jotibachiwadi — Jotibachiwadi — Jotibachiwadi,0.74,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Jotibachiwadi — Jotibachiwadi — Jotibachiwadi,1.0,Zone I,YES,YES,6.32,7.61,2.8,0.74,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Jotibachiwadi — Jotibachiwadi — Jotibachiwadi,1.16,Zone I,YES,YES,6.15,7.38,2.81,0.76,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Hattij — Hattij — Hattij,1.64,Zone I,YES,YES,5.86,7.16,2.86,0.96,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Hattij — Hattij — Hattij,2.08,Zone I,YES,YES,5.31,7.38,3.35,1.11,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Hattij — Hattij — Hattij,2.26,Zone I,YES,YES,2.8,5.03,3.48,1.17,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Hattij — Hattij — Hattij,2.9,Zone I,YES,YES,6.0,8.07,3.57,1.21,⚠️ FLOODED — OPERATIONS DISRUPTED
+🏥,Primary Health Centre (PHC),"SubCentre, Ratanjan — Ratajan — Ratajan — Ratajan",3.38,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Hattij — Hattij — Hattij,3.58,Zone I,YES,YES,5.89,8.33,3.76,1.25,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Hattij — Hattij — Hattij,3.88,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Hingani(ratanjan) — Hingani(ratanjan) — Hingani(ratanjan),4.28,Zone I,YES,YES,6.68,8.72,3.86,1.32,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Hingani(ratanjan) — Hingani(ratanjan) — Hingani(ratanjan),4.97,Zone I,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Hingani(ratanjan) — Hingani(ratanjan) — Hingani(ratanjan),5.63,Zone II,YES,YES,7.05,8.97,4.17,1.41,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Hingani(ratanjan) — Hingani(ratanjan) — Hingani(ratanjan),5.97,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Hingani(ratanjan) — Hingani(ratanjan) — Hingani(ratanjan),6.68,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Khuttewadi — Khuttewadi — Khuttewadi,7.05,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),7.06,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Khuttewadi — Khuttewadi — Khuttewadi,7.06,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),7.45,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),8.26,Zone II,YES,YES,6.48,8.22,5.04,1.86,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),8.49,Zone II,YES,YES,0.7,2.55,5.16,1.9,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),8.52,Zone II,YES,YES,2.82,4.67,5.14,1.9,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),8.52,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Khuttewadi — Khuttewadi — Khuttewadi,8.57,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),8.6,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),8.63,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),8.65,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),8.66,Zone II,YES,YES,2.5,4.36,5.16,1.9,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),9.08,Zone II,YES,YES,6.53,8.26,5.26,1.98,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),9.15,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Raleras — Raleras — Raleras,9.46,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Raleras — Raleras — Raleras,9.47,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),9.48,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Sarjapur — Sarjapur — Sarjapur,10.18,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Sarjapur — Sarjapur — Sarjapur,10.43,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Sarjapur — Sarjapur — Sarjapur,10.43,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Sarjapur — Sarjapur — Sarjapur,10.49,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — virag — virag — virag,10.49,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Raleras — Raleras — Raleras,11.78,Zone II,YES,YES,6.33,8.9,5.92,2.27,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Raleras — Raleras — Raleras,11.79,Zone II,YES,YES,6.33,8.81,5.92,2.26,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Raleras — Raleras — Raleras,11.8,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Raleras — Raleras — Raleras,11.99,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Raleras — Raleras — Raleras,12.04,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Raleras — Raleras — Raleras,12.38,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Raleras — Raleras — Raleras,12.9,Zone II,NO,YES,,2.3,—,2.58,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Vairag — Vairag — Vairag,13.4,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Vairag — Vairag — Vairag,13.54,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Sasure — Sasure — Sasure,13.8,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Vairag — Vairag — Vairag,14.16,Zone II,NO,NO,,,—,—,Safe — Monitor
+🏥,Primary Health Centre (PHC),"PHC, Vairag — Vairag — Vairag — Vairag",14.2,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Ladole — Ladole — Ladole,14.2,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Vairag — Vairag — Vairag,14.2,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Vairag — Vairag — Vairag,14.21,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Vairag — Vairag — Vairag,14.21,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Vairag — Vairag — Vairag,14.21,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,14.21,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Vairag — Vairag — Vairag,14.21,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Vairag — Vairag — Vairag,14.21,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — virag — virag — virag,14.24,Zone II,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Sasure — Sasure — Sasure,14.91,Zone II,YES,YES,2.2,3.88,6.92,2.91,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Sasure — Sasure — Sasure,15.74,Zone II,NO,YES,,1.15,—,3.23,⚠️ FLOODED — OPERATIONS DISRUPTED
+🌉,Bridge,Bridge — Vairag — Vairag — Vairag,16.13,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Vairag — Vairag — Vairag,16.13,Zone III,NO,NO,,,—,—,Safe — Monitor
+⚡,Electricity Substation,Vairag 220/33 KV ss — Vairag — Vairag — Vairag,16.16,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Vairag — Vairag — Vairag,16.16,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,16.16,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,16.18,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Vairag — Vairag — Vairag,16.18,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,16.59,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,16.61,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,16.61,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,16.62,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Vairag — Vairag — Vairag,16.62,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,16.62,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,16.62,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,16.62,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,16.62,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,16.62,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge,16.62,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Dahithane — Dahithane — Dahithane,17.46,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Raleras — Raleras — Raleras,19.23,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Mungshi — Mungshi — Mungshi,19.31,Zone III,NO,NO,,,—,—,Safe — Monitor
+🌉,Bridge,Bridge — Waluj — Waluj — Waluj,23.82,Zone III,YES,YES,3.68,6.17,9.42,4.24,⚠️ FLOODED — OPERATIONS DISRUPTED

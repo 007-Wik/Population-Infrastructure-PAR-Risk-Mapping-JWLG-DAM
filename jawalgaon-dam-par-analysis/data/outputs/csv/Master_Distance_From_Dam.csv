@@ -1,0 +1,404 @@
+,Feature Type,Feature Name,District,Distance from Dam (km),Alert Zone,Alert Colour,Zone Description,Piping — Inundated?,Piping — Area Flooded (%),Piping — Max Depth (m),Piping — Arrival (hrs),Piping — Evac Window,Piping — PAR,Overtopping — Inundated?,Overtopping — Area Flooded (%),Overtopping — Max Depth (m),Overtopping — Arrival (hrs),Overtopping — Evac Window,Overtopping — PAR,Population,Nearest Shelter,Shelter Distance (km),Hazard Class (Piping),Hazard Class (Overtop),Flood Status (Piping),Flood Status (Overtop),Remarks,Piping — Inundated km,Piping — Inundated %,Piping — Flood Status,Overtopping — Inundated km,Overtopping — Inundated %,Overtopping — Flood Status,Total Road Length (km)
+1,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+2,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+3,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+4,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+5,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+6,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+7,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+8,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+9,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+10,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+11,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+12,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+13,Road — Kutcha Track,Kutcha Track — Ambegaon,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.156,46.8,ROAD PARTIALLY FLOODED,0.334
+14,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+15,Road — Kutcha Track,Kutcha Track,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.083,16.2,ROAD MARGINALLY AFFECTED,0.511
+16,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+17,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+18,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+19,Bridge,Bridge — Ambegaon — Ambegaon — Ambegaon,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+20,Bridge,Bridge — Ambegaon — Ambegaon — Ambegaon,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+21,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+22,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+23,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+24,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+25,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+26,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+27,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+28,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+29,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+30,Road — Village Road,Village Road — Jotibachiwadi,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.164,18.7,ROAD MARGINALLY AFFECTED,0.166,18.9,ROAD MARGINALLY AFFECTED,0.878
+31,Bridge,Bridge — Ambabaiwadi — Ambabaiwadi — Ambabaiwadi,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+32,Bridge,Bridge — Ambabaiwadi — Ambabaiwadi — Ambabaiwadi,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+33,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+34,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+35,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+36,Bridge,Tuljapur Bypass,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+37,Bridge,Bridge — Ambegaon — Ambegaon — Ambegaon,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+38,Bridge,Bridge — Ambegaon — Ambegaon — Ambegaon,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+39,Road — Internal Road,Internal Road,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.112,11.8,ROAD MARGINALLY AFFECTED,0.952
+40,Road — Kutcha Track,Kutcha Track — Jotibachiwadi,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.14,54.9,ROAD PARTIALLY FLOODED,0.254
+41,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+42,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+43,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+44,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+45,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+46,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+47,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+48,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+49,Bridge,Tuljapur Bypass,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+50,Bridge,Tuljapur Bypass,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+51,Bridge,Tuljapur Bypass,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+52,Bridge,Tuljapur Bypass,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+53,Bridge,Tuljapur Bypass,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+54,Bridge,Tuljapur Bypass,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+55,Bridge,Tuljapur Bypass,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+56,Bridge,Tuljapur Bypass,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+57,Bridge,Tuljapur Bypass,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+58,Bridge,Tuljapur Bypass,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+59,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+60,Bridge,Tuljapur Bypass,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+61,Bridge,Tuljapur Bypass,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+62,Bridge,Tuljapur Bypass,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+63,Bridge,Tuljapur Bypass,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+64,Bridge,Tuljapur Bypass,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+65,Hospital,Malba Hospital,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+66,Hospital,Peshwe Hospital,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+67,Hospital,Sai Mangal Hospital,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+68,Temple / Place of Worship,Tuljabhavani mandir,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+69,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+70,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+71,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+72,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+73,Road — Service Road,Service Road — Jotibachiwadi,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.028,9.2,ROAD MARGINALLY AFFECTED,0.301
+74,Road — Kutcha Track,Kutcha Track,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.08,18.0,ROAD MARGINALLY AFFECTED,0.443
+75,Road — Kutcha Track,Kutcha Track — Ambegaon,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.121,11.4,ROAD MARGINALLY AFFECTED,1.061
+76,College / University,Tata Institute of Social Sciences - TISS Tuljapur,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+77,Dam,Dam,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+78,School,School,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+79,Temple / Place of Worship,Tuljabhavani Pujari Dhanraj Ranjeet Karade,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+80,Bus Station,Bus Station,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+81,Temple / Place of Worship,Temple / Place of Worship,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+82,School,School,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+83,Hospital,Hospital,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+84,Temple / Place of Worship,Ghatshil temple,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+85,Electricity Substation,Electricity Substation,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+86,Electricity Substation,Toljapur,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+87,Bus Stop,Bus Stop,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+88,Hospital,RHC,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+89,Bus Stop,Bus Stop,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+90,Bus Stop,Bus Stop,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+91,Hospital,Kshirasagar Hospital,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+92,Bus Stop,Bus Stop,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+93,Hospital,Kutwal Multi Speciality Hospital,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+94,Hospital,Kadam Hospital,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+95,Primary Health Centre (PHC),PHC Gaudgaon,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+96,Hospital,Yadav Nursing and Maternity Home - Tuljapur,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+97,Bridge,Bridge,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+98,Bridge,Apsinga Road,Solapur,0.0,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+99,Settlement / Village,Ambegaon,Solapur,0.003,Zone I,RED,IMMEDIATE DANGER,NO,0.0,,Not Reached,8+ hours,0.0,NO,0.0,,Not Reached,8+ hours,0.0,686.0,None,3.81,None,None,NOT AFFECTED,NOT AFFECTED,,,,,,,,
+100,Bridge,Bridge — Jotibachiwadi — Jotibachiwadi — Jotibachiwadi,Solapur,0.081,Zone I,RED,IMMEDIATE DANGER,YES,,6.285,2.66,2–4 hours,,YES,,8.25,0.66,0 to 2 hour,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+101,Road — Village Road,Village Road — Jotibachiwadi,Solapur,0.081,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.05,100.0,ROAD COMPLETELY FLOODED,0.05,100.0,ROAD COMPLETELY FLOODED,0.05
+102,Road — Village Road,Village Road — Jotibachiwadi,Solapur,0.112,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.108,7.4,ROAD MARGINALLY AFFECTED,0.23,15.7,ROAD MARGINALLY AFFECTED,1.462
+103,Road — Internal Road,Internal Road — Ambabaiwadi,Solapur,0.287,Zone I,RED,IMMEDIATE DANGER,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.298,12.3,ROAD MARGINALLY AFFECTED,2.414
+104,Settlement / Village,Ambabaiwadi,Solapur,0.311,Zone I,RED,IMMEDIATE DANGER,NO,0.0,,Not Reached,8+ hours,0.0,NO,0.0,,Not Reached,8+ hours,0.0,1315.0,None,4.03,None,None,NOT AFFECTED,NOT AFFECTED,,,,,,,,
+105,Road — Village Road,Village Road — Ambegaon,Solapur,0.337,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.792,10.2,ROAD MARGINALLY AFFECTED,1.577,20.3,ROAD MARGINALLY AFFECTED,7.754
+106,Bridge,Bridge,Solapur,0.364,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+107,Road — Internal Road,Internal Road — Jotibachiwadi,Solapur,0.532,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.947,100.0,ROAD COMPLETELY FLOODED,0.947,100.0,ROAD COMPLETELY FLOODED,0.947
+108,Settlement / Village,Jotibachiwadi,Solapur,0.544,Zone I,RED,IMMEDIATE DANGER,NO,0.0,,Not Reached,8+ hours,0.0,NO,0.0,,Not Reached,8+ hours,0.0,2276.0,None,4.18,None,None,NOT AFFECTED,NOT AFFECTED,,,,,,,,
+109,Bridge,Bridge — Jotibachiwadi — Jotibachiwadi — Jotibachiwadi,Solapur,0.743,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+110,Road — Village Road,Village Road — Jotibachiwadi,Solapur,0.924,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.221,60.2,ROAD PARTIALLY FLOODED,0.251,68.5,ROAD PARTIALLY FLOODED,0.367
+111,Bridge,Bridge — Jotibachiwadi — Jotibachiwadi — Jotibachiwadi,Solapur,0.999,Zone I,RED,IMMEDIATE DANGER,YES,,6.315,2.8,2–4 hours,,YES,,7.614,0.74,0 to 2 hour,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+112,Road — Village Road,Village Road — Jotibachiwadi,Solapur,0.999,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.014,100.0,ROAD COMPLETELY FLOODED,0.014,100.0,ROAD COMPLETELY FLOODED,0.014
+113,Road — Village Road,Village Road — Jotibachiwadi,Solapur,1.106,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.278,68.8,ROAD PARTIALLY FLOODED,0.404,100.0,ROAD COMPLETELY FLOODED,0.404
+114,Road — Village Road,Village Road — Jotibachiwadi,Solapur,1.123,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.064,100.0,ROAD COMPLETELY FLOODED,0.064,100.0,ROAD COMPLETELY FLOODED,0.064
+115,Road — Village Road,Village Road — Jotibachiwadi,Solapur,1.156,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.007,100.0,ROAD COMPLETELY FLOODED,0.007,100.0,ROAD COMPLETELY FLOODED,0.007
+116,Bridge,Bridge — Jotibachiwadi — Jotibachiwadi — Jotibachiwadi,Solapur,1.156,Zone I,RED,IMMEDIATE DANGER,YES,,6.149,2.81,2–4 hours,,YES,,7.384,0.76,0 to 2 hour,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+117,Road — Kutcha Track,Kutcha Track — Hattij,Solapur,1.192,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.14,22.2,ROAD MARGINALLY AFFECTED,0.468,74.0,ROAD HEAVILY FLOODED,0.632
+118,Road — Service Road,Service Road — Hattij,Solapur,1.61,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.138,100.0,ROAD COMPLETELY FLOODED,0.138,100.0,ROAD COMPLETELY FLOODED,0.138
+119,Road — Village Road,Village Road — Hattij,Solapur,1.614,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.982,100.0,ROAD COMPLETELY FLOODED,0.982,100.0,ROAD COMPLETELY FLOODED,0.982
+120,Road — Kutcha Track,Kutcha Track — Hattij,Solapur,1.637,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.005,100.0,ROAD COMPLETELY FLOODED,0.005,100.0,ROAD COMPLETELY FLOODED,0.005
+121,Road — Kutcha Track,Kutcha Track — Hattij,Solapur,1.638,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.05,100.0,ROAD COMPLETELY FLOODED,0.05,100.0,ROAD COMPLETELY FLOODED,0.05
+122,Bridge,Bridge — Hattij — Hattij — Hattij,Solapur,1.638,Zone I,RED,IMMEDIATE DANGER,YES,,5.856,2.86,2–4 hours,,YES,,7.164,0.96,0 to 2 hour,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+123,Road — Kutcha Track,Kutcha Track — Hattij,Solapur,1.684,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.105,100.0,ROAD COMPLETELY FLOODED,0.105,100.0,ROAD COMPLETELY FLOODED,0.105
+124,Road — Kutcha Track,Kutcha Track — Hattij,Solapur,2.063,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.064,100.0,ROAD COMPLETELY FLOODED,0.064,100.0,ROAD COMPLETELY FLOODED,0.064
+125,Road — Kutcha Track,Kutcha Track — Hattij,Solapur,2.067,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,1.252,63.4,ROAD PARTIALLY FLOODED,1.542,78.0,ROAD HEAVILY FLOODED,1.975
+126,Road — Village Road,Village Road — Ambegaon,Solapur,2.069,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.231,4.5,ROAD MARGINALLY AFFECTED,0.387,7.5,ROAD MARGINALLY AFFECTED,5.191
+127,Road — Village Road,Village Road — Hattij,Solapur,2.075,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.103,100.0,ROAD COMPLETELY FLOODED,0.103,100.0,ROAD COMPLETELY FLOODED,0.103
+128,Bridge,Bridge — Hattij — Hattij — Hattij,Solapur,2.075,Zone I,RED,IMMEDIATE DANGER,YES,,5.31,3.35,2–4 hours,,YES,,7.381,1.11,0 to 2 hour,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+129,Road — Kutcha Track,Kutcha Track — Hattij,Solapur,2.13,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.52,81.4,ROAD HEAVILY FLOODED,0.639,100.0,ROAD COMPLETELY FLOODED,0.639
+130,Road — Kutcha Track,Kutcha Track — Hattij,Solapur,2.182,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.099,49.1,ROAD PARTIALLY FLOODED,0.201,100.0,ROAD COMPLETELY FLOODED,0.201
+131,Road — Kutcha Track,Kutcha Track — Hattij,Solapur,2.26,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.021,100.0,ROAD COMPLETELY FLOODED,0.021,100.0,ROAD COMPLETELY FLOODED,0.021
+132,Bridge,Bridge — Hattij — Hattij — Hattij,Solapur,2.26,Zone I,RED,IMMEDIATE DANGER,YES,,2.797,3.48,2–4 hours,,YES,,5.026,1.17,0 to 2 hour,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+133,Road — Village Road,Village Road — Hattij,Solapur,2.489,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.771,100.0,ROAD COMPLETELY FLOODED,0.771,100.0,ROAD COMPLETELY FLOODED,0.771
+134,Road — Village Road,Village Road — Hattij,Solapur,2.517,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.584,43.6,ROAD PARTIALLY FLOODED,1.248,93.2,ROAD HEAVILY FLOODED,1.339
+135,Road — Kutcha Track,Kutcha Track — Hattij,Solapur,2.609,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.425,59.3,ROAD PARTIALLY FLOODED,0.546,76.2,ROAD HEAVILY FLOODED,0.717
+136,Road — Kutcha Track,Kutcha Track — Hattij,Solapur,2.647,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.025,5.6,ROAD MARGINALLY AFFECTED,0.153,33.5,ROAD PARTIALLY FLOODED,0.457
+137,Road — Internal Road,Internal Road — Hattij,Solapur,2.649,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.006,1.5,ROAD MARGINALLY AFFECTED,0.064,16.1,ROAD MARGINALLY AFFECTED,0.395
+138,Road — Internal Road,Internal Road — Hattij,Solapur,2.727,Zone I,RED,IMMEDIATE DANGER,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.016,24.2,ROAD MARGINALLY AFFECTED,0.066
+139,Settlement / Village,Hattij,Solapur,2.75,Zone I,RED,IMMEDIATE DANGER,YES,17.0,3.934,3.47,2–4 hours,298.0,YES,42.1,6.095,1.17,0 to 2 hour,737.0,1751.0,None,2.37,H1,H6,VILLAGE PARTIALLY FLOODED,VILLAGE MODERATELY FLOODED,,,,,,,,
+140,Road — Village Road,Village Road — Hattij,Solapur,2.752,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.383,10.0,ROAD MARGINALLY AFFECTED,0.543,14.2,ROAD MARGINALLY AFFECTED,3.826
+141,Road — Internal Road,Internal Road — Hattij,Solapur,2.81,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.022,19.0,ROAD MARGINALLY AFFECTED,0.116,100.0,ROAD COMPLETELY FLOODED,0.116
+142,Settlement / Village,Malegaon,Solapur,2.851,Zone I,RED,IMMEDIATE DANGER,NO,0.0,,Not Reached,8+ hours,0.0,NO,0.0,,Not Reached,8+ hours,0.0,2529.0,None,0.06,None,None,NOT AFFECTED,NOT AFFECTED,,,,,,,,
+143,Road — Internal Road,Internal Road — Hattij,Solapur,2.886,Zone I,RED,IMMEDIATE DANGER,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.016,34.2,ROAD PARTIALLY FLOODED,0.046
+144,Bridge,Bridge — Hattij — Hattij — Hattij,Solapur,2.902,Zone I,RED,IMMEDIATE DANGER,YES,,6.0,3.57,2–4 hours,,YES,,8.067,1.21,0 to 2 hour,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+145,Road — Village Road,Village Road — Hattij,Solapur,2.902,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.084,100.0,ROAD COMPLETELY FLOODED,0.084,100.0,ROAD COMPLETELY FLOODED,0.084
+146,Road — Internal Road,Internal Road — Hattij,Solapur,2.954,Zone I,RED,IMMEDIATE DANGER,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.044,53.7,ROAD PARTIALLY FLOODED,0.082
+147,Road — Internal Road,Internal Road — Hattij,Solapur,2.961,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.009,0.6,ROAD MARGINALLY AFFECTED,0.07,4.5,ROAD MARGINALLY AFFECTED,1.572
+148,Road — Internal Road,Internal Road — Hattij,Solapur,2.961,Zone I,RED,IMMEDIATE DANGER,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.028,29.4,ROAD MARGINALLY AFFECTED,0.094
+149,Road — Internal Road,Internal Road — Hattij,Solapur,2.975,Zone I,RED,IMMEDIATE DANGER,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.033,8.9,ROAD MARGINALLY AFFECTED,0.372
+150,Settlement / Village,Hattij,Solapur,2.99,Zone I,RED,IMMEDIATE DANGER,YES,7.0,4.721,3.54,2–4 hours,123.0,YES,18.9,6.753,1.18,0 to 2 hour,331.0,1751.0,Shelter for Hatij Flood Afffected People,2.01,H1,H1,VILLAGE PARTIALLY FLOODED,VILLAGE PARTIALLY FLOODED,,,,,,,,
+151,Road — Village Road,Village Road — Hattij,Solapur,3.068,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.215,7.4,ROAD MARGINALLY AFFECTED,0.286,9.8,ROAD MARGINALLY AFFECTED,2.921
+152,Road — Internal Road,Internal Road — Hattij,Solapur,3.239,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.642,100.0,ROAD COMPLETELY FLOODED,0.642,100.0,ROAD COMPLETELY FLOODED,0.642
+153,Settlement / Village,Ratajan,Solapur,3.369,Zone I,RED,IMMEDIATE DANGER,NO,0.0,,Not Reached,8+ hours,0.0,NO,0.0,,Not Reached,8+ hours,0.0,2529.0,Shelter for Hatij Flood Afffected People,0.49,None,None,NOT AFFECTED,NOT AFFECTED,,,,,,,,
+154,Primary Health Centre (PHC),"SubCentre, Ratanjan — Ratajan — Ratajan — Ratajan",Solapur,3.384,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+155,Settlement / Village,Ladole,Solapur,3.435,Zone I,RED,IMMEDIATE DANGER,NO,0.0,,Not Reached,8+ hours,0.0,NO,0.0,,Not Reached,8+ hours,0.0,1254.0,Shelter for Hatij Flood Afffected People,4.16,None,None,NOT AFFECTED,NOT AFFECTED,,,,,,,,
+156,Road — Internal Road,Internal Road — Hattij,Solapur,3.505,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.338,84.8,ROAD HEAVILY FLOODED,0.398,100.0,ROAD COMPLETELY FLOODED,0.398
+157,Road — Internal Road,Internal Road — Hattij,Solapur,3.578,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.081,100.0,ROAD COMPLETELY FLOODED,0.081,100.0,ROAD COMPLETELY FLOODED,0.081
+158,Bridge,Bridge — Hattij — Hattij — Hattij,Solapur,3.578,Zone I,RED,IMMEDIATE DANGER,YES,,5.888,3.76,2–4 hours,,YES,,8.33,1.25,0 to 2 hour,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+159,Road — Village Road,Village Road — Hattij,Solapur,3.819,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.065,4.6,ROAD MARGINALLY AFFECTED,0.418,30.0,ROAD PARTIALLY FLOODED,1.391
+160,Bridge,Bridge — Hattij — Hattij — Hattij,Solapur,3.884,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+161,Road — Village Road,Village Road — Hattij,Solapur,4.122,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.252,92.9,ROAD HEAVILY FLOODED,0.272,100.0,ROAD COMPLETELY FLOODED,0.272
+162,Bridge,Bridge — Hingani(ratanjan) — Hingani(ratanjan) — Hingani(ratanjan),Solapur,4.279,Zone I,RED,IMMEDIATE DANGER,YES,,6.677,3.86,2–4 hours,,YES,,8.717,1.32,0 to 2 hour,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+163,Road — Village Road,Village Road — Hingani(ratanjan),Solapur,4.279,Zone I,RED,IMMEDIATE DANGER,YES,,,,,,YES,,,,,,,,,,,,,,0.082,100.0,ROAD COMPLETELY FLOODED,0.082,100.0,ROAD COMPLETELY FLOODED,0.082
+164,Road — Kutcha Track,Kutcha Track — Hingani(ratanjan),Solapur,4.973,Zone I,RED,IMMEDIATE DANGER,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.652,35.6,ROAD PARTIALLY FLOODED,1.829
+165,Bridge,Bridge — Hingani(ratanjan) — Hingani(ratanjan) — Hingani(ratanjan),Solapur,4.974,Zone I,RED,IMMEDIATE DANGER,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+166,Road — Internal Road,Internal Road — Hingani(ratanjan),Solapur,5.551,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.048,46.9,ROAD PARTIALLY FLOODED,0.102
+167,Road — Village Road,Village Road — Hingani(ratanjan),Solapur,5.573,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.126,6.1,ROAD MARGINALLY AFFECTED,0.194,9.4,ROAD MARGINALLY AFFECTED,2.063
+168,Road — Internal Road,Internal Road — Hingani(ratanjan),Solapur,5.584,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.156,43.3,ROAD PARTIALLY FLOODED,0.206,57.1,ROAD PARTIALLY FLOODED,0.36
+169,Settlement / Village,Hingani(ratanjan),Solapur,5.59,Zone II,ORANGE,HIGH RISK,YES,4.8,1.301,4.16,4–6 hours,47.0,YES,16.2,3.316,1.4,0 to 2 hour,159.0,981.0,None,0.56,H1,H4,VILLAGE MARGINALLY AFFECTED,VILLAGE PARTIALLY FLOODED,,,,,,,,
+170,Road — Internal Road,Internal Road — Hingani(ratanjan),Solapur,5.61,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.061,100.0,ROAD COMPLETELY FLOODED,0.061,100.0,ROAD COMPLETELY FLOODED,0.061
+171,Road — Internal Road,Internal Road — Hingani(ratanjan),Solapur,5.617,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.12,31.0,ROAD PARTIALLY FLOODED,0.17,43.8,ROAD PARTIALLY FLOODED,0.389
+172,Bridge,Bridge — Hingani(ratanjan) — Hingani(ratanjan) — Hingani(ratanjan),Solapur,5.627,Zone II,ORANGE,HIGH RISK,YES,,7.052,4.17,4–6 hours,,YES,,8.975,1.41,0 to 2 hour,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+173,Road — Internal Road,Internal Road — Hingani(ratanjan),Solapur,5.627,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.038,100.0,ROAD COMPLETELY FLOODED,0.038,100.0,ROAD COMPLETELY FLOODED,0.038
+174,Road — Internal Road,Internal Road — Hingani(ratanjan),Solapur,5.825,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.338,37.2,ROAD PARTIALLY FLOODED,0.76,83.6,ROAD HEAVILY FLOODED,0.909
+175,Road — Kutcha Track,Kutcha Track — Hingani(ratanjan),Solapur,5.944,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.037,8.4,ROAD MARGINALLY AFFECTED,0.442,100.0,ROAD COMPLETELY FLOODED,0.442
+176,Bridge,Bridge — Hingani(ratanjan) — Hingani(ratanjan) — Hingani(ratanjan),Solapur,5.972,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+177,Road — Kutcha Track,Kutcha Track — Hingani(ratanjan),Solapur,6.619,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.029,9.8,ROAD MARGINALLY AFFECTED,0.215,71.7,ROAD HEAVILY FLOODED,0.3
+178,Bridge,Bridge — Hingani(ratanjan) — Hingani(ratanjan) — Hingani(ratanjan),Solapur,6.676,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+179,Settlement / Village,Khuttewadi,Solapur,7.046,Zone II,ORANGE,HIGH RISK,NO,0.0,,Not Reached,8+ hours,0.0,NO,0.0,,Not Reached,8+ hours,0.0,635.0,None,2.04,None,None,NOT AFFECTED,NOT AFFECTED,,,,,,,,
+180,Bridge,Bridge — Khuttewadi — Khuttewadi — Khuttewadi,Solapur,7.046,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+181,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),Solapur,7.062,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+182,Bridge,Bridge — Khuttewadi — Khuttewadi — Khuttewadi,Solapur,7.062,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+183,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),Solapur,7.445,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+184,Road — Internal Road,Internal Road — Sarjapur,Solapur,7.687,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.14,4.4,ROAD MARGINALLY AFFECTED,0.338,10.6,ROAD MARGINALLY AFFECTED,3.176
+185,Road — Internal Road,Internal Road — Dhamgaon(Dumala),Solapur,7.9,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.33,39.5,ROAD PARTIALLY FLOODED,0.459,55.0,ROAD PARTIALLY FLOODED,0.835
+186,Road — Service Road,Service Road — Dhamgaon(Dumala),Solapur,8.086,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.105,83.7,ROAD HEAVILY FLOODED,0.125,100.0,ROAD COMPLETELY FLOODED,0.125
+187,Road — Internal Road,Internal Road — Dhamgaon(Dumala),Solapur,8.259,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.032,100.0,ROAD COMPLETELY FLOODED,0.032,100.0,ROAD COMPLETELY FLOODED,0.032
+188,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),Solapur,8.259,Zone II,ORANGE,HIGH RISK,YES,,6.477,5.04,4–6 hours,,YES,,8.22,1.86,0 to 2 hour,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+189,Road — Kutcha Track,Kutcha Track — Dhamgaon(Dumala),Solapur,8.33,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.023,5.2,ROAD MARGINALLY AFFECTED,0.169,38.9,ROAD PARTIALLY FLOODED,0.433
+190,Road — Internal Road,Internal Road — Dhamgaon(Dumala),Solapur,8.35,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.015,2.5,ROAD MARGINALLY AFFECTED,0.068,11.3,ROAD MARGINALLY AFFECTED,0.606
+191,Road — Internal Road,Internal Road — Dhamgaon(Dumala),Solapur,8.394,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.309,100.0,ROAD COMPLETELY FLOODED,0.309,100.0,ROAD COMPLETELY FLOODED,0.309
+192,Road — Internal Road,Internal Road — Dhamgaon(Dumala),Solapur,8.49,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.02,100.0,ROAD COMPLETELY FLOODED,0.02,100.0,ROAD COMPLETELY FLOODED,0.02
+193,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),Solapur,8.49,Zone II,ORANGE,HIGH RISK,YES,,0.698,5.16,4–6 hours,,YES,,2.553,1.9,0 to 2 hour,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+194,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),Solapur,8.518,Zone II,ORANGE,HIGH RISK,YES,,2.816,5.14,4–6 hours,,YES,,4.665,1.9,0 to 2 hour,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+195,Road — Internal Road,Internal Road — Dhamgaon(Dumala),Solapur,8.518,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.011,100.0,ROAD COMPLETELY FLOODED,0.011,100.0,ROAD COMPLETELY FLOODED,0.011
+196,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),Solapur,8.52,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+197,Bridge,Bridge — Khuttewadi — Khuttewadi — Khuttewadi,Solapur,8.575,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+198,Road — Internal Road,Internal Road — Dhamgaon(Dumala),Solapur,8.576,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.14,28.4,ROAD MARGINALLY AFFECTED,0.221,44.8,ROAD PARTIALLY FLOODED,0.492
+199,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),Solapur,8.597,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+200,Road — Internal Road,Internal Road — Dhamgaon(Dumala),Solapur,8.612,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.369,98.0,ROAD COMPLETELY FLOODED,0.377,100.0,ROAD COMPLETELY FLOODED,0.377
+201,Road — Village Road,Village Road — Dhamgaon(Dumala),Solapur,8.616,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.158,16.2,ROAD MARGINALLY AFFECTED,0.328,33.8,ROAD PARTIALLY FLOODED,0.971
+202,Road — Internal Road,Internal Road — Dhamgaon(Dumala),Solapur,8.634,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.017,37.1,ROAD PARTIALLY FLOODED,0.045
+203,Road — Internal Road,Internal Road — Dhamgaon(Dumala),Solapur,8.634,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.015,14.8,ROAD MARGINALLY AFFECTED,0.101
+204,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),Solapur,8.634,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+205,Road — Internal Road,Internal Road — Dhamgaon(Dumala),Solapur,8.634,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.012,19.0,ROAD MARGINALLY AFFECTED,0.033,51.1,ROAD PARTIALLY FLOODED,0.064
+206,Road — Internal Road,Internal Road — Dhamgaon(Dumala),Solapur,8.634,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.005,8.9,ROAD MARGINALLY AFFECTED,0.025,47.5,ROAD PARTIALLY FLOODED,0.053
+207,Settlement / Village,Dhamgaon(Dumala),Solapur,8.634,Zone II,ORANGE,HIGH RISK,YES,1.4,1.762,5.16,4–6 hours,7.0,YES,3.6,3.615,1.9,0 to 2 hour,18.0,506.0,None,0.1,H1,H1,VILLAGE MARGINALLY AFFECTED,VILLAGE MARGINALLY AFFECTED,,,,,,,,
+208,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),Solapur,8.647,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+209,Road — Village Road,Village Road — Dhamgaon(Dumala),Solapur,8.663,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.015,100.0,ROAD COMPLETELY FLOODED,0.015,100.0,ROAD COMPLETELY FLOODED,0.015
+210,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),Solapur,8.663,Zone II,ORANGE,HIGH RISK,YES,,2.495,5.16,4–6 hours,,YES,,4.357,1.9,0 to 2 hour,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+211,Road — Village Road,Village Road — Dhamgaon(Dumala),Solapur,8.834,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.379,74.9,ROAD HEAVILY FLOODED,0.506,100.0,ROAD COMPLETELY FLOODED,0.506
+212,Road — Service Road,Service Road — Dhamgaon(Dumala),Solapur,8.965,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.065,100.0,ROAD COMPLETELY FLOODED,0.065,100.0,ROAD COMPLETELY FLOODED,0.065
+213,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),Solapur,9.083,Zone II,ORANGE,HIGH RISK,YES,,6.533,5.26,4–6 hours,,YES,,8.261,1.98,0 to 2 hour,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+214,Road — Village Road,Village Road — Dhamgaon(Dumala),Solapur,9.083,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.06,100.0,ROAD COMPLETELY FLOODED,0.06,100.0,ROAD COMPLETELY FLOODED,0.06
+215,Road — Service Road,Service Road — Dhamgaon(Dumala),Solapur,9.119,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.217,91.2,ROAD HEAVILY FLOODED,0.238,100.0,ROAD COMPLETELY FLOODED,0.238
+216,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),Solapur,9.154,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+217,Road — Kutcha Track,Kutcha Track — Dhamgaon(Dumala),Solapur,9.365,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.285,100.0,ROAD COMPLETELY FLOODED,0.285,100.0,ROAD COMPLETELY FLOODED,0.285
+218,Road — Kutcha Track,Kutcha Track — Dhamgaon(Dumala),Solapur,9.454,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.142,8.0,ROAD MARGINALLY AFFECTED,1.767
+219,Bridge,Bridge — Raleras — Raleras — Raleras,Solapur,9.457,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+220,Bridge,Bridge — Raleras — Raleras — Raleras,Solapur,9.473,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+221,Bridge,Bridge — Dhamgaon(Dumala) — Dhamgaon(Dumala) — Dhamgaon(Dumala),Solapur,9.485,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+222,Road — Kutcha Track,Kutcha Track — Dhamgaon(Dumala),Solapur,9.755,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.181,100.0,ROAD COMPLETELY FLOODED,0.181,100.0,ROAD COMPLETELY FLOODED,0.181
+223,Road — Kutcha Track,Kutcha Track — Dhamgaon(Dumala),Solapur,9.829,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.257,36.7,ROAD PARTIALLY FLOODED,0.702
+224,Road — Service Road,Service Road — Dhamgaon(Dumala),Solapur,9.907,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.001,0.9,ROAD MARGINALLY AFFECTED,0.087,97.9,ROAD COMPLETELY FLOODED,0.089
+225,Road — Kutcha Track,Kutcha Track — Dhamgaon(Dumala),Solapur,9.971,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.157,90.7,ROAD HEAVILY FLOODED,0.172,100.0,ROAD COMPLETELY FLOODED,0.172
+226,Road — Kutcha Track,Kutcha Track — Dhamgaon(Dumala),Solapur,10.119,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.001,0.1,ROAD MARGINALLY AFFECTED,0.7,87.6,ROAD HEAVILY FLOODED,0.799
+227,Road — Village Road,Village Road — Sarjapur,Solapur,10.119,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.646,25.5,ROAD MARGINALLY AFFECTED,0.891,35.1,ROAD PARTIALLY FLOODED,2.538
+228,Bridge,Bridge — Sarjapur — Sarjapur — Sarjapur,Solapur,10.177,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+229,Settlement / Village,Sarjapur,Solapur,10.215,Zone II,ORANGE,HIGH RISK,NO,0.0,,Not Reached,8+ hours,0.0,NO,0.0,,Not Reached,8+ hours,0.0,1135.0,None,2.53,None,None,NOT AFFECTED,NOT AFFECTED,,,,,,,,
+230,Bridge,Bridge — Sarjapur — Sarjapur — Sarjapur,Solapur,10.43,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+231,Bridge,Bridge — Sarjapur — Sarjapur — Sarjapur,Solapur,10.43,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+232,Bridge,Bridge — virag — virag — virag,Solapur,10.493,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+233,Bridge,Bridge — Sarjapur — Sarjapur — Sarjapur,Solapur,10.493,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+234,Road — Kutcha Track,Kutcha Track — Raleras,Solapur,10.673,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.089,100.0,ROAD COMPLETELY FLOODED,0.089,100.0,ROAD COMPLETELY FLOODED,0.089
+235,Road — Kutcha Track,Kutcha Track — Raleras,Solapur,10.676,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.035,80.1,ROAD HEAVILY FLOODED,0.044,100.0,ROAD COMPLETELY FLOODED,0.044
+236,Road — Kutcha Track,Kutcha Track — Raleras,Solapur,10.716,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.068,100.0,ROAD COMPLETELY FLOODED,0.068,100.0,ROAD COMPLETELY FLOODED,0.068
+237,Road — Kutcha Track,Kutcha Track — Raleras,Solapur,10.779,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.213,100.0,ROAD COMPLETELY FLOODED,0.213,100.0,ROAD COMPLETELY FLOODED,0.213
+238,Road — Kutcha Track,Kutcha Track — Raleras,Solapur,10.825,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.304,36.7,ROAD PARTIALLY FLOODED,0.445,53.6,ROAD PARTIALLY FLOODED,0.83
+239,Road — Kutcha Track,Kutcha Track — Raleras,Solapur,11.077,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.389,20.0,ROAD MARGINALLY AFFECTED,0.646,33.2,ROAD PARTIALLY FLOODED,1.946
+240,Road — Internal Road,Internal Road — Raleras,Solapur,11.203,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,1.17,100.0,ROAD COMPLETELY FLOODED,1.17,100.0,ROAD COMPLETELY FLOODED,1.17
+241,Road — Kutcha Track,Kutcha Track — Raleras,Solapur,11.227,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.097,12.7,ROAD MARGINALLY AFFECTED,0.765
+242,Road — Service Road,Service Road — Raleras,Solapur,11.274,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.148,100.0,ROAD COMPLETELY FLOODED,0.148,100.0,ROAD COMPLETELY FLOODED,0.148
+243,Road — Service Road,Service Road — Raleras,Solapur,11.455,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.132,100.0,ROAD COMPLETELY FLOODED,0.132,100.0,ROAD COMPLETELY FLOODED,0.132
+244,Road — Internal Road,Internal Road — Raleras,Solapur,11.596,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.212,55.3,ROAD PARTIALLY FLOODED,0.382,99.5,ROAD COMPLETELY FLOODED,0.384
+245,Road — Internal Road,Internal Road — Raleras,Solapur,11.616,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.559,90.0,ROAD HEAVILY FLOODED,0.621,100.0,ROAD COMPLETELY FLOODED,0.621
+246,Road — Service Road,Service Road — Raleras,Solapur,11.638,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.126,100.0,ROAD COMPLETELY FLOODED,0.126,100.0,ROAD COMPLETELY FLOODED,0.126
+247,Road — Internal Road,Internal Road — Raleras,Solapur,11.776,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.049,100.0,ROAD COMPLETELY FLOODED,0.049,100.0,ROAD COMPLETELY FLOODED,0.049
+248,Bridge,Bridge — Raleras — Raleras — Raleras,Solapur,11.776,Zone II,ORANGE,HIGH RISK,YES,,6.325,5.92,4–6 hours,,YES,,8.905,2.27,2–4 hours,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+249,Road — Internal Road,Internal Road — Raleras,Solapur,11.777,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.011,100.0,ROAD COMPLETELY FLOODED,0.011,100.0,ROAD COMPLETELY FLOODED,0.011
+250,Road — Major Road,SH151 — SH151 — Raleras,Solapur,11.79,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.106,100.0,ROAD COMPLETELY FLOODED,0.106,100.0,ROAD COMPLETELY FLOODED,0.106
+251,Bridge,Bridge — Raleras — Raleras — Raleras,Solapur,11.79,Zone II,ORANGE,HIGH RISK,YES,,6.325,5.92,4–6 hours,,YES,,8.809,2.26,2–4 hours,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+252,Road — Major Road,SH151 — SH151 — Raleras,Solapur,11.793,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.059,5.0,ROAD MARGINALLY AFFECTED,0.334,28.5,ROAD MARGINALLY AFFECTED,1.174
+253,Bridge,Bridge — Raleras — Raleras — Raleras,Solapur,11.802,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+254,Road — Internal Road,Internal Road — Raleras,Solapur,11.899,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.184,86.7,ROAD HEAVILY FLOODED,0.212
+255,Road — Internal Road,Internal Road — Raleras,Solapur,11.917,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.18,70.2,ROAD HEAVILY FLOODED,0.256,100.0,ROAD COMPLETELY FLOODED,0.256
+256,Road — Service Road,Service Road — Raleras,Solapur,11.923,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.273,100.0,ROAD COMPLETELY FLOODED,0.273,100.0,ROAD COMPLETELY FLOODED,0.273
+257,Settlement / Village,Raleras,Solapur,11.991,Zone II,ORANGE,HIGH RISK,NO,0.0,,Not Reached,8+ hours,0.0,NO,0.0,,Not Reached,8+ hours,0.0,2316.0,None,0.34,None,None,NOT AFFECTED,NOT AFFECTED,,,,,,,,
+258,Bridge,Bridge — Raleras — Raleras — Raleras,Solapur,11.992,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+259,Settlement / Village,Raleras,Solapur,12.043,Zone II,ORANGE,HIGH RISK,YES,8.7,1.906,5.96,4–6 hours,201.0,YES,32.0,4.073,2.31,2–4 hours,742.0,2316.0,None,0.81,H1,H1,VILLAGE PARTIALLY FLOODED,VILLAGE MODERATELY FLOODED,,,,,,,,
+260,Bridge,Bridge — Raleras — Raleras — Raleras,Solapur,12.043,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+261,Road — Internal Road,Internal Road — Raleras,Solapur,12.047,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.025,9.8,ROAD MARGINALLY AFFECTED,0.249
+262,Road — Internal Road,Internal Road — Raleras,Solapur,12.066,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.016,5.7,ROAD MARGINALLY AFFECTED,0.277
+263,Road — Internal Road,Internal Road — Raleras,Solapur,12.096,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.035,7.3,ROAD MARGINALLY AFFECTED,0.478
+264,Road — Internal Road,Internal Road — Raleras,Solapur,12.098,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.001,1.2,ROAD MARGINALLY AFFECTED,0.085
+265,Road — Internal Road,Internal Road — Raleras,Solapur,12.334,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.097,4.8,ROAD MARGINALLY AFFECTED,2.014
+266,Bridge,Bridge — Raleras — Raleras — Raleras,Solapur,12.375,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+267,Road — Major Road,SH151 — SH151 — Raleras,Solapur,12.597,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.069,6.6,ROAD MARGINALLY AFFECTED,0.487,46.7,ROAD PARTIALLY FLOODED,1.043
+268,Road — Service Road,Service Road — Raleras,Solapur,12.597,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.014,5.3,ROAD MARGINALLY AFFECTED,0.228,83.4,ROAD HEAVILY FLOODED,0.273
+269,Road — Service Road,Service Road — Raleras,Solapur,12.627,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.03,28.7,ROAD MARGINALLY AFFECTED,0.105
+270,Road — Service Road,Service Road — Raleras,Solapur,12.641,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.035,77.4,ROAD HEAVILY FLOODED,0.045
+271,Road — Major Road,SH151 — SH151 — Raleras,Solapur,12.901,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.032,100.0,ROAD COMPLETELY FLOODED,0.032
+272,Bridge,Bridge — Raleras — Raleras — Raleras,Solapur,12.901,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,YES,,2.301,2.58,2–4 hours,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+273,Road — Service Road,Service Road — Sasure,Solapur,12.99,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.007,5.1,ROAD MARGINALLY AFFECTED,0.134
+274,Road — Kutcha Track,Kutcha Track — Raleras,Solapur,13.128,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.156,100.0,ROAD COMPLETELY FLOODED,0.156,100.0,ROAD COMPLETELY FLOODED,0.156
+275,Road — Service Road,Service Road — Sasure,Solapur,13.199,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.076,43.0,ROAD PARTIALLY FLOODED,0.178
+276,Road — Internal Road,Internal Road — Sasure,Solapur,13.244,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.379,25.9,ROAD MARGINALLY AFFECTED,1.269,86.8,ROAD HEAVILY FLOODED,1.462
+277,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,13.247,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.564,100.0,ROAD COMPLETELY FLOODED,0.564,100.0,ROAD COMPLETELY FLOODED,0.564
+278,Road — Major Road,SH151 — SH151 — virag,Solapur,13.264,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.081,2.5,ROAD MARGINALLY AFFECTED,3.269
+279,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,13.327,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.133,38.9,ROAD PARTIALLY FLOODED,0.264,77.0,ROAD HEAVILY FLOODED,0.343
+280,Bridge,Bridge — Vairag — Vairag — Vairag,Solapur,13.403,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+281,Settlement / Village,virag,Solapur,13.423,Zone II,ORANGE,HIGH RISK,NO,0.0,,Not Reached,8+ hours,0.0,NO,0.0,,Not Reached,8+ hours,0.0,19970.0,None,1.3,None,None,NOT AFFECTED,NOT AFFECTED,,,,,,,,
+282,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,13.424,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,1.09,100.0,ROAD COMPLETELY FLOODED,1.09,100.0,ROAD COMPLETELY FLOODED,1.09
+283,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,13.469,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.132,100.0,ROAD COMPLETELY FLOODED,0.132,100.0,ROAD COMPLETELY FLOODED,0.132
+284,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,13.483,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.12,98.2,ROAD COMPLETELY FLOODED,0.123,100.0,ROAD COMPLETELY FLOODED,0.123
+285,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,13.528,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.178,64.9,ROAD PARTIALLY FLOODED,0.275,100.0,ROAD COMPLETELY FLOODED,0.275
+286,Bridge,Bridge — Vairag — Vairag — Vairag,Solapur,13.539,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+287,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,13.595,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.176,76.3,ROAD HEAVILY FLOODED,0.231,100.0,ROAD COMPLETELY FLOODED,0.231
+288,Road — Internal Road,Internal Road — Sasure,Solapur,13.613,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.157,76.4,ROAD HEAVILY FLOODED,0.206
+289,Road — Internal Road,Internal Road — Sasure,Solapur,13.663,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.018,15.7,ROAD MARGINALLY AFFECTED,0.111
+290,Road — Internal Road,Internal Road — Sasure,Solapur,13.716,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.007,21.0,ROAD MARGINALLY AFFECTED,0.034
+291,Road — Internal Road,Internal Road — Sasure,Solapur,13.721,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.009,4.3,ROAD MARGINALLY AFFECTED,0.22
+292,Road — Internal Road,Internal Road — Sasure,Solapur,13.732,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.017,5.8,ROAD MARGINALLY AFFECTED,0.176,61.6,ROAD PARTIALLY FLOODED,0.286
+293,Road — Internal Road,Internal Road — Sasure,Solapur,13.738,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.018,9.2,ROAD MARGINALLY AFFECTED,0.191
+294,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,13.741,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.182,82.7,ROAD HEAVILY FLOODED,0.22,100.0,ROAD COMPLETELY FLOODED,0.22
+295,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,13.772,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.1,81.4,ROAD HEAVILY FLOODED,0.123,100.0,ROAD COMPLETELY FLOODED,0.123
+296,Road — Internal Road,Internal Road — Sasure,Solapur,13.789,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.008,9.2,ROAD MARGINALLY AFFECTED,0.084
+297,Road — Internal Road,Internal Road — Sasure,Solapur,13.795,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.112,100.0,ROAD COMPLETELY FLOODED,0.112
+298,Bridge,Bridge — Sasure — Sasure — Sasure,Solapur,13.804,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+299,Road — Internal Road,Internal Road — Sasure,Solapur,13.807,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.039,34.7,ROAD PARTIALLY FLOODED,0.113
+300,Road — Service Road,Service Road — Sasure,Solapur,13.88,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.052,100.0,ROAD COMPLETELY FLOODED,0.052
+301,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,13.898,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.296,92.3,ROAD HEAVILY FLOODED,0.321,100.0,ROAD COMPLETELY FLOODED,0.321
+302,Road — District Road,MDR28 — MDR28 — Sasure,Solapur,13.97,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.6,17.7,ROAD MARGINALLY AFFECTED,1.277,37.6,ROAD PARTIALLY FLOODED,3.399
+303,Road — Service Road,Service Road — Sasure,Solapur,14.032,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.045,41.1,ROAD PARTIALLY FLOODED,0.11
+304,Settlement / Village,Sasure,Solapur,14.065,Zone II,ORANGE,HIGH RISK,YES,5.3,2.998,6.49,6–8 hours,183.0,YES,18.7,4.99,2.6,2–4 hours,641.0,3427.0,None,0.55,H1,H1,VILLAGE PARTIALLY FLOODED,VILLAGE PARTIALLY FLOODED,,,,,,,,
+305,Road — Internal Road,Internal Road — Sasure,Solapur,14.103,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.101,19.1,ROAD MARGINALLY AFFECTED,0.319,60.5,ROAD PARTIALLY FLOODED,0.527
+306,Bridge,Bridge — Vairag — Vairag — Vairag,Solapur,14.158,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+307,Settlement / Village,Vairag,Solapur,14.197,Zone II,ORANGE,HIGH RISK,NO,0.0,,Not Reached,8+ hours,0.0,NO,0.0,,Not Reached,8+ hours,0.0,19970.0,None,3.36,None,None,NOT AFFECTED,NOT AFFECTED,,,,,,,,
+308,Bridge,Bridge — Ladole — Ladole — Ladole,Solapur,14.197,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+309,Bridge,Bridge — Vairag — Vairag — Vairag,Solapur,14.197,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+310,Primary Health Centre (PHC),"PHC, Vairag — Vairag — Vairag — Vairag",Solapur,14.197,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+311,Bridge,Bridge — Vairag — Vairag — Vairag,Solapur,14.215,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+312,Bridge,Bridge — Vairag — Vairag — Vairag,Solapur,14.215,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+313,Bridge,Bridge,Solapur,14.215,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+314,Bridge,Bridge — Vairag — Vairag — Vairag,Solapur,14.215,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+315,Bridge,Bridge — Vairag — Vairag — Vairag,Solapur,14.215,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+316,Bridge,Bridge — Vairag — Vairag — Vairag,Solapur,14.215,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+317,Bridge,Bridge — virag — virag — virag,Solapur,14.239,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+318,Road — Internal Road,Internal Road — Sasure,Solapur,14.301,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.091,7.1,ROAD MARGINALLY AFFECTED,1.292
+319,Road — Internal Road,Internal Road — Sasure,Solapur,14.364,Zone II,ORANGE,HIGH RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.139,7.4,ROAD MARGINALLY AFFECTED,1.869
+320,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,14.437,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.469,88.6,ROAD HEAVILY FLOODED,0.529,100.0,ROAD COMPLETELY FLOODED,0.529
+321,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,14.525,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,1.076,100.0,ROAD COMPLETELY FLOODED,1.076,100.0,ROAD COMPLETELY FLOODED,1.076
+322,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,14.655,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.154,100.0,ROAD COMPLETELY FLOODED,0.154,100.0,ROAD COMPLETELY FLOODED,0.154
+323,Bridge,Bridge — Sasure — Sasure — Sasure,Solapur,14.914,Zone II,ORANGE,HIGH RISK,YES,,2.198,6.92,6–8 hours,,YES,,3.878,2.91,2–4 hours,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+324,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,14.914,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.015,100.0,ROAD COMPLETELY FLOODED,0.015,100.0,ROAD COMPLETELY FLOODED,0.015
+325,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,14.933,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.161,94.4,ROAD HEAVILY FLOODED,0.171,100.0,ROAD COMPLETELY FLOODED,0.171
+326,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,14.949,Zone II,ORANGE,HIGH RISK,YES,,,,,,YES,,,,,,,,,,,,,,1.864,96.8,ROAD COMPLETELY FLOODED,1.924,99.9,ROAD COMPLETELY FLOODED,1.926
+327,Road — Service Road,Service Road — Dahithane,Solapur,15.203,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.029,10.7,ROAD MARGINALLY AFFECTED,0.271
+328,Road — Internal Road,Internal Road — Dahithane,Solapur,15.412,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.439,14.4,ROAD MARGINALLY AFFECTED,0.574,18.9,ROAD MARGINALLY AFFECTED,3.043
+329,Road — Kutcha Track,Kutcha Track — Sasure,Solapur,15.448,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.969,53.8,ROAD PARTIALLY FLOODED,1.071,59.5,ROAD PARTIALLY FLOODED,1.8
+330,Road — Internal Road,Internal Road — Sasure,Solapur,15.743,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.017,100.0,ROAD COMPLETELY FLOODED,0.017
+331,Bridge,Bridge — Sasure — Sasure — Sasure,Solapur,15.743,Zone II,ORANGE,HIGH RISK,NO,,,Not Reached,8+ hours,,YES,,1.154,3.23,2–4 hours,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+332,Road — Internal Road,Internal Road — Sasure,Solapur,16.042,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.164,19.4,ROAD MARGINALLY AFFECTED,0.842
+333,Bridge,Bridge — Vairag — Vairag — Vairag,Solapur,16.132,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+334,Bridge,Bridge — Vairag — Vairag — Vairag,Solapur,16.132,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+335,Bridge,Bridge — Vairag — Vairag — Vairag,Solapur,16.159,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+336,Electricity Substation,Vairag 220/33 KV ss — Vairag — Vairag — Vairag,Solapur,16.159,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+337,Bridge,Bridge,Solapur,16.159,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+338,Bridge,Bridge — Vairag — Vairag — Vairag,Solapur,16.183,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+339,Bridge,Bridge,Solapur,16.183,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+340,Road — Kutcha Track,Kutcha Track — Dahithane,Solapur,16.264,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.02,3.0,ROAD MARGINALLY AFFECTED,0.268,40.5,ROAD PARTIALLY FLOODED,0.661
+341,Road — Kutcha Track,Kutcha Track — Dahithane,Solapur,16.284,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.098,100.0,ROAD COMPLETELY FLOODED,0.098
+342,Road — Kutcha Track,Kutcha Track — Dahithane,Solapur,16.327,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.048,94.0,ROAD HEAVILY FLOODED,0.051,100.0,ROAD COMPLETELY FLOODED,0.051
+343,Road — Kutcha Track,Kutcha Track — Dahithane,Solapur,16.422,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.112,21.8,ROAD MARGINALLY AFFECTED,0.242,47.1,ROAD PARTIALLY FLOODED,0.513
+344,Bridge,Bridge,Solapur,16.591,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+345,Road — Service Road,Service Road — Dahithane,Solapur,16.607,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.035,9.2,ROAD MARGINALLY AFFECTED,0.211,55.0,ROAD PARTIALLY FLOODED,0.384
+346,Bridge,Bridge,Solapur,16.607,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+347,Bridge,Bridge,Solapur,16.607,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+348,Bridge,Bridge,Solapur,16.623,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+349,Bridge,Bridge,Solapur,16.623,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+350,Bridge,Bridge,Solapur,16.623,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+351,Bridge,Bridge,Solapur,16.623,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+352,Bridge,Bridge,Solapur,16.623,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+353,Bridge,Bridge,Solapur,16.623,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+354,Bridge,Bridge,Solapur,16.623,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+355,Bridge,Bridge — Vairag — Vairag — Vairag,Solapur,16.623,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+356,Road — Other Road,Surat-Chennai Expressway,Solapur,16.64,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.5,0.1,ROAD MARGINALLY AFFECTED,1.337,0.3,ROAD MARGINALLY AFFECTED,513.631
+357,Road — Service Road,Service Road — Dahithane,Solapur,17.107,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.125,76.3,ROAD HEAVILY FLOODED,0.163
+358,Road — Internal Road,Internal Road — Dahithane,Solapur,17.14,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.013,22.1,ROAD MARGINALLY AFFECTED,0.059,100.0,ROAD COMPLETELY FLOODED,0.059
+359,Road — Internal Road,Internal Road — Dahithane,Solapur,17.393,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.126,44.1,ROAD PARTIALLY FLOODED,0.232,81.4,ROAD HEAVILY FLOODED,0.285
+360,Road — Internal Road,Internal Road — Dahithane,Solapur,17.435,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.078,76.1,ROAD HEAVILY FLOODED,0.103
+361,Bridge,Bridge — Dahithane — Dahithane — Dahithane,Solapur,17.461,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+362,Road — Internal Road,Internal Road — Dahithane,Solapur,17.477,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.005,2.9,ROAD MARGINALLY AFFECTED,0.036,20.7,ROAD MARGINALLY AFFECTED,0.175
+363,Road — Internal Road,Internal Road — Dahithane,Solapur,17.514,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.048,65.2,ROAD PARTIALLY FLOODED,0.073
+364,Road — Internal Road,Internal Road — Dahithane,Solapur,17.516,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.009,5.9,ROAD MARGINALLY AFFECTED,0.162
+365,Settlement / Village,Dahithane,Solapur,17.524,Zone III,YELLOW,MODERATE RISK,YES,12.3,4.924,7.65,6–8 hours,217.0,YES,31.8,6.771,3.3,2–4 hours,562.0,1765.0,None,1.22,H1,H1,VILLAGE PARTIALLY FLOODED,VILLAGE MODERATELY FLOODED,,,,,,,,
+366,Road — Internal Road,Internal Road — Dahithane,Solapur,17.525,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.034,64.7,ROAD PARTIALLY FLOODED,0.052
+367,Road — Internal Road,Internal Road — Dahithane,Solapur,17.536,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.081,22.6,ROAD MARGINALLY AFFECTED,0.163,45.3,ROAD PARTIALLY FLOODED,0.359
+368,Road — Internal Road,Internal Road — Dahithane,Solapur,17.556,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.029,100.0,ROAD COMPLETELY FLOODED,0.029
+369,Road — Internal Road,Internal Road — Dahithane,Solapur,17.557,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.004,7.5,ROAD MARGINALLY AFFECTED,0.054
+370,Road — Internal Road,Internal Road — Dahithane,Solapur,17.564,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.037,51.2,ROAD PARTIALLY FLOODED,0.073
+371,Road — Service Road,Service Road — Dahithane,Solapur,17.613,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.135,83.7,ROAD HEAVILY FLOODED,0.161,100.0,ROAD COMPLETELY FLOODED,0.161
+372,Road — Kutcha Track,Kutcha Track — Dahithane,Solapur,17.71,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.06,100.0,ROAD COMPLETELY FLOODED,0.06
+373,Road — Kutcha Track,Kutcha Track — Dahithane,Solapur,17.739,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.103,16.4,ROAD MARGINALLY AFFECTED,0.187,29.7,ROAD MARGINALLY AFFECTED,0.63
+374,Road — Major Road,SH74 — SH74 — Dahithane,Solapur,18.135,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.933,8.7,ROAD MARGINALLY AFFECTED,3.125,29.2,ROAD MARGINALLY AFFECTED,10.695
+375,Road — Kutcha Track,Kutcha Track — Dahithane,Solapur,18.233,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.355,16.8,ROAD MARGINALLY AFFECTED,0.697,32.9,ROAD PARTIALLY FLOODED,2.117
+376,Road — Kutcha Track,Kutcha Track — Dahithane,Solapur,18.297,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.204,34.1,ROAD PARTIALLY FLOODED,0.342,57.4,ROAD PARTIALLY FLOODED,0.597
+377,Bridge,Bridge — Raleras — Raleras — Raleras,Solapur,19.233,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+378,Bridge,Bridge — Mungshi — Mungshi — Mungshi,Solapur,19.31,Zone III,YELLOW,MODERATE RISK,NO,,,Not Reached,8+ hours,,NO,,,Not Reached,8+ hours,,,,,,,,,,,,,,,,
+379,Road — Service Road,Service Road — Mungshi,Solapur,19.601,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.02,17.3,ROAD MARGINALLY AFFECTED,0.115
+380,Road — Village Road,Village Road — Mungshi,Solapur,20.157,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.261,4.1,ROAD MARGINALLY AFFECTED,0.578,9.2,ROAD MARGINALLY AFFECTED,6.284
+381,Road — Service Road,Service Road — Mungshi,Solapur,20.241,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.076,56.6,ROAD PARTIALLY FLOODED,0.134
+382,Road — Service Road,Service Road — Mungshi,Solapur,20.467,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.032,37.5,ROAD PARTIALLY FLOODED,0.084
+383,Settlement / Village,Mungshi,Solapur,20.643,Zone III,YELLOW,MODERATE RISK,YES,11.5,5.711,8.53,8+ hours,149.0,YES,30.9,7.881,3.77,2–4 hours,399.0,1291.0,None,1.31,H1,H1,VILLAGE PARTIALLY FLOODED,VILLAGE MODERATELY FLOODED,,,,,,,,
+384,Road — Internal Road,Internal Road — Mungshi,Solapur,20.643,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.031,24.4,ROAD MARGINALLY AFFECTED,0.111,88.0,ROAD HEAVILY FLOODED,0.126
+385,Road — Internal Road,Internal Road — Mungshi,Solapur,20.654,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.012,23.0,ROAD MARGINALLY AFFECTED,0.052
+386,Road — Internal Road,Internal Road — Mungshi,Solapur,20.744,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.014,8.2,ROAD MARGINALLY AFFECTED,0.025,15.1,ROAD MARGINALLY AFFECTED,0.165
+387,Road — Village Road,Village Road — Mungshi,Solapur,20.837,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.219,46.5,ROAD PARTIALLY FLOODED,0.25,53.1,ROAD PARTIALLY FLOODED,0.471
+388,Road — Internal Road,Internal Road — Mungshi,Solapur,20.917,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.027,38.3,ROAD PARTIALLY FLOODED,0.072
+389,Road — Kutcha Track,Kutcha Track — Mungshi,Solapur,21.362,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.334,30.5,ROAD PARTIALLY FLOODED,1.095
+390,Road — Kutcha Track,Kutcha Track — Mungshi,Solapur,22.105,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.16,18.5,ROAD MARGINALLY AFFECTED,0.864
+391,Road — Kutcha Track,Kutcha Track — Bhagaiwadi,Solapur,22.234,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.075,100.0,ROAD COMPLETELY FLOODED,0.075,100.0,ROAD COMPLETELY FLOODED,0.075
+392,Road — Kutcha Track,Kutcha Track — Bhagaiwadi,Solapur,22.254,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.338,88.0,ROAD HEAVILY FLOODED,0.384,100.0,ROAD COMPLETELY FLOODED,0.384
+393,Settlement / Village,Bhagaiwadi,Solapur,22.56,Zone III,YELLOW,MODERATE RISK,NO,0.0,,Not Reached,8+ hours,0.0,NO,0.0,,Not Reached,8+ hours,0.0,0.0,None,0.33,None,None,NOT AFFECTED,NOT AFFECTED,,,,,,,,
+394,Road — Kutcha Track,Kutcha Track — Bhagaiwadi,Solapur,22.606,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.108,30.2,ROAD PARTIALLY FLOODED,0.358
+395,Road — Village Road,Village Road — Waluj,Solapur,22.892,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.31,7.4,ROAD MARGINALLY AFFECTED,0.355,8.5,ROAD MARGINALLY AFFECTED,4.192
+396,Road — Service Road,Service Road — Waluj,Solapur,23.768,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.028,17.6,ROAD MARGINALLY AFFECTED,0.16
+397,Bridge,Bridge — Waluj — Waluj — Waluj,Solapur,23.824,Zone III,YELLOW,MODERATE RISK,YES,,3.679,9.42,8+ hours,,YES,,6.172,4.24,4–6 hours,,,,,,,,,⚠️ BRIDGE SUBMERGED — ACCESS CUT,,,,,,,
+398,Road — Major Road,SH74 — SH74 — Waluj,Solapur,23.824,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.107,95.6,ROAD COMPLETELY FLOODED,0.112,100.0,ROAD COMPLETELY FLOODED,0.112
+399,Road — Service Road,Service Road — Waluj,Solapur,23.931,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.074,80.3,ROAD HEAVILY FLOODED,0.092
+400,Road — Village Road,Village Road — Waluj,Solapur,24.305,Zone III,YELLOW,MODERATE RISK,YES,,,,,,YES,,,,,,,,,,,,,,0.032,0.7,ROAD MARGINALLY AFFECTED,0.238,5.4,ROAD MARGINALLY AFFECTED,4.373
+401,Settlement / Village,Waluj,Solapur,24.32,Zone II,ORANGE,HIGH RISK,NO,0.0,,Not Reached,8+ hours,0.0,YES,0.6,0.481,4.24,4–6 hours,9.0,1426.0,None,0.84,None,H1,NOT AFFECTED,VILLAGE MARGINALLY AFFECTED,,,,,,,,
+402,Road — Major Road,SH74 — SH74 — Waluj,Solapur,24.718,Zone III,YELLOW,MODERATE RISK,NO,,,,,,YES,,,,,,,,,,,,,,0.0,0.0,NOT FLOODED,0.187,3.8,ROAD MARGINALLY AFFECTED,4.883
+403,Settlement / Village,Waluj,Solapur,24.718,Zone III,YELLOW,MODERATE RISK,YES,1.0,2.314,9.41,8+ hours,0.0,YES,17.5,4.807,4.23,4–6 hours,0.0,0.0,None,1.02,H1,H1,VILLAGE MARGINALLY AFFECTED,VILLAGE PARTIALLY FLOODED,,,,,,,,
