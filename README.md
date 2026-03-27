@@ -2,7 +2,7 @@
 
 <div align="center"
            
-![Main Banner](docs/figures/main-banner.svg)
+![Main Banner](jawalgaon-dam-par-analysis/docs/figures/main-banner.svg)
 
 ![GIS](https://img.shields.io/badge/GIS-GeoPandas%20%7C%20Rasterio-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scenarios](https://img.shields.io/badge/Scenarios-Piping%20%7C%20Overtopping-blue?style=for-the-badge)
@@ -65,7 +65,7 @@ The downstream floodplain encompasses agricultural land, villages, rural roads, 
 ---
 
 ## Analysis Overview
-![Notebooks Banner](docs/figures/notebooks-banner.svg)
+![Notebooks Banner](jawalgaon-dam-par-analysis/docs/figures/notebooks-banner.svg)
 ```
 Raw Hydraulic Rasters (Depth, Velocity, WSE, Arrival Time)
            │
@@ -95,7 +95,7 @@ Raw Hydraulic Rasters (Depth, Velocity, WSE, Arrival Time)
 
 ## Repository Structure
 
-![Data Banner](docs/figures/data-banner.svg)
+![Data Banner](jawalgaon-dam-par-analysis/docs/figures/data-banner.svg)
 ```
 jawalgaon-dam-par-analysis/
 │
@@ -129,7 +129,7 @@ jawalgaon-dam-par-analysis/
 
 ## Methodology at a Glance
 
-![Methodology Banner](docs/figures/methodology-banner.svg)
+![Methodology Banner](jawalgaon-dam-par-analysis/docs/figures/methodology-banner.svg)
 > Full detail in [METHODOLOGY.md](METHODOLOGY.md)
 
 ### 1 · Coordinate Reference System
